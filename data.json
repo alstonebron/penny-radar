@@ -869,7 +869,7 @@
    "url": "https://www.homedepot.com/s/Turf%20Builder%2027.40%20lbs.%208%2C000%20sq.%20ft.%20Healthy%20Plus%20Lawn%20FoodFL%2C%202-in-1%20Fungicide"
   }
  ],
- "updated": "Nov 18, 09:19 AM ET",
+ "updated": "Nov 18, 04:20 PM ET",
  "status": {
   "PennyCentral": 56,
   "Penny Recon": 45,
@@ -883,20 +883,20 @@
    "sku": "1009-074-829",
    "name": "ONE+ HP 18V Brushless Bagless Cordless Pet Mesh Filter Stick Vacuum Cleaner (Tool Only)",
    "retail": 199.0,
-   "reports": 240,
+   "reports": 241,
    "states": 32,
    "fl": 17,
    "lee": false,
    "fl_cities": "West Palm Beach, Brandon, Yulee, Key West",
-   "last": "Yesterday",
+   "last": "Today",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 1,
+   "age": 0,
    "swfl": false,
-   "score": 8864.2,
+   "score": 8870.8,
    "img": "https://images.thdstatic.com/productImages/64e0d2df-d615-4342-9aae-229886bfcc8a/svn/ryobi-stick-vacuums-pblsv716b-64_400.jpg",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
@@ -927,7 +927,7 @@
    "sku": "215-583",
    "name": "12 inch Rough In Two-Piece 1.1 GPF/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
    "retail": 99.0,
-   "reports": 115,
+   "reports": 119,
    "states": 29,
    "fl": 11,
    "lee": false,
@@ -940,7 +940,7 @@
    ],
    "age": 0,
    "swfl": true,
-   "score": 4782.4,
+   "score": 4816.2,
    "img": "https://images.thdstatic.com/productImages/6fe20a93-2ab3-453c-b589-a96123a18b20/svn/white-glacier-bay-two-piece-toilets-n2316-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -970,6 +970,27 @@
    "url": "https://www.homedepot.com/s/1003619907"
   },
   {
+   "sku": "1004-372-760",
+   "name": "15 Amp 10 in. Portable Corded Pro Jobsite Table Saw With Stand",
+   "retail": 549.0,
+   "reports": 3,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 1912.1,
+   "img": "https://images.thdstatic.com/productImages/168e4060-a20d-4665-9db6-29e67b268842/svn/ridgid-portable-table-saws-r4514-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1004372760"
+  },
+  {
    "sku": "1006-104-733",
    "name": "Floodlight Cam Wired Pro - Smart Security Video Camera with 2-LED Lights, Dual Band Wi-Fi, 3D Motion Detection, White",
    "retail": 229.99,
@@ -992,35 +1013,12 @@
    "url": "https://www.homedepot.com/s/1006104733"
   },
   {
-   "sku": "168-674",
-   "name": "800 lb. Capacity D-Handle Hand Truck",
-   "retail": 79.0,
-   "reports": 48,
-   "states": 18,
-   "fl": 3,
-   "lee": false,
-   "fl_cities": "Pace, Boynton Beach, Tallahassee",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral",
-    "Penny Recon",
-    "Penny Pinchin' Mom"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 1454.6,
-   "img": "https://images.thdstatic.com/productImages/49981bea-07e3-4c94-81e8-c65ba9d9ac24/svn/milwaukee-hand-trucks-hd800p-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/168674"
-  },
-  {
    "sku": "1003-565-875",
    "name": "Wireless TV Headphones In Black",
    "retail": 35.98,
-   "reports": 55,
-   "states": 17,
-   "fl": 6,
+   "reports": 59,
+   "states": 19,
+   "fl": 7,
    "lee": true,
    "fl_cities": "Daytona Beach, Fort Myers, Oviedo",
    "last": "Today",
@@ -1030,11 +1028,34 @@
    ],
    "age": 0,
    "swfl": true,
-   "score": 1401.8,
+   "score": 1537.9,
    "img": "https://images.thdstatic.com/productImages/63c9889c-576b-463f-8960-b56b3c3a1dd2/svn/own-zone-headphones-wn011112-64_400.jpg",
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
    "url": "https://www.homedepot.com/s/1003565875"
+  },
+  {
+   "sku": "168-674",
+   "name": "800 lb. Capacity D-Handle Hand Truck",
+   "retail": 79.0,
+   "reports": 53,
+   "states": 19,
+   "fl": 3,
+   "lee": false,
+   "fl_cities": "Pace, Boynton Beach, Tallahassee",
+   "last": "Today",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 1490.1,
+   "img": "https://images.thdstatic.com/productImages/49981bea-07e3-4c94-81e8-c65ba9d9ac24/svn/milwaukee-hand-trucks-hd800p-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/168674"
   },
   {
    "sku": "1002-719-695",
@@ -1056,6 +1077,27 @@
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
    "url": "https://www.homedepot.com/s/1002719695"
+  },
+  {
+   "sku": "1004-869-199",
+   "name": "Elmbrook 60 in. X 30.25 in. Soaking Bathtub With Left-Hand Drain In White",
+   "retail": 439.0,
+   "reports": 1,
+   "states": 1,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 1200.3,
+   "img": "https://images.thdstatic.com/productImages/b208fca1-97ef-4ef4-ae6a-a712867c7398/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-64_400.jpg",
+   "zone": "Plumbing / Bath",
+   "where": "Back-center of store, near Kitchen and Bath showrooms",
+   "url": "https://www.homedepot.com/s/1004869199"
   },
   {
    "sku": "1008-625-777",
@@ -1336,8 +1378,8 @@
    "sku": "1012-388-248",
    "name": "800 Lumen LED Rechargeable Detachable Tripod Work Light",
    "retail": 19.88,
-   "reports": 116,
-   "states": 26,
+   "reports": 118,
+   "states": 27,
    "fl": 1,
    "lee": false,
    "fl_cities": "Panama City",
@@ -1349,7 +1391,7 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 354.0,
+   "score": 355.3,
    "img": "https://images.thdstatic.com/productImages/820881bc-6a07-4009-89d8-a940a267e55f/svn/husky-work-lights-k40526-64_400.jpg",
    "zone": "Lighting & Fans",
    "where": "Middle of store, lighting aisles",
@@ -1382,19 +1424,19 @@
    "sku": "1015-053-805",
    "name": "5/8 in. Dia. X 100 ft. Contractor Grade Garden Hose",
    "retail": 24.98,
-   "reports": 18,
-   "states": 9,
+   "reports": 20,
+   "states": 10,
    "fl": 4,
    "lee": false,
    "fl_cities": "Vero Beach, Fort Pierce, Melbourne, Jacksonville",
-   "last": "Yesterday",
+   "last": "Today",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 1,
+   "age": 0,
    "swfl": false,
-   "score": 323.9,
+   "score": 334.2,
    "img": "https://images.thdstatic.com/productImages/ff6c09cc-8f39-4b79-b2db-e8cc2d5357af/svn/black-flexon-garden-hoses-wcm58100hd-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -1512,20 +1554,20 @@
    "sku": "155-180",
    "name": "8 ft. 6-Outlet Surge Protector With 45 Degree Flat Angle Plug, Black",
    "retail": 14.99,
-   "reports": 14,
-   "states": 7,
+   "reports": 15,
+   "states": 8,
    "fl": 4,
    "lee": false,
    "fl_cities": "Orange Park",
-   "last": "Yesterday",
+   "last": "Today",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 1,
+   "age": 0,
    "swfl": false,
-   "score": 215.9,
+   "score": 220.6,
    "img": "https://images.thdstatic.com/productImages/740ce6aa-bd6c-49e1-b56e-18bb69fc48ea/svn/black-commercial-electric-surge-protectors-ylpt-43b-64_400.jpg",
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
@@ -1551,6 +1593,28 @@
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
    "url": "https://www.homedepot.com/s/342574"
+  },
+  {
+   "sku": "1008-778-891",
+   "name": "Maxfit Modular 3/8 in. Drive Right Angle Attachment",
+   "retail": 24.97,
+   "reports": 6,
+   "states": 5,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "Port St. Lucie",
+   "last": "Today",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 161.5,
+   "img": "https://images.thdstatic.com/productImages/5b5d1ce8-b378-469b-99d5-79fb4143a223/svn/dewalt-drill-attachments-dwamra38-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "url": "https://www.homedepot.com/s/1008778891"
   },
   {
    "sku": "1001-685-761",
@@ -1807,28 +1871,6 @@
    "url": "https://www.homedepot.com/s/1004043727"
   },
   {
-   "sku": "1008-778-891",
-   "name": "Maxfit Modular 3/8 in. Drive Right Angle Attachment",
-   "retail": 24.97,
-   "reports": 5,
-   "states": 5,
-   "fl": 1,
-   "lee": false,
-   "fl_cities": "Port St. Lucie",
-   "last": "2 days ago",
-   "sources": [
-    "PennyCentral",
-    "Penny Recon"
-   ],
-   "age": 2,
-   "swfl": false,
-   "score": 120.9,
-   "img": "https://images.thdstatic.com/productImages/5b5d1ce8-b378-469b-99d5-79fb4143a223/svn/dewalt-drill-attachments-dwamra38-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "url": "https://www.homedepot.com/s/1008778891"
-  },
-  {
    "sku": "1007-984-718",
    "name": "Milwaukee 18 in. Red 4-Way Stretch Cut 3 Resistant Protective Arm Sleeves",
    "retail": 16.47,
@@ -1935,48 +1977,6 @@
    "zone": "Building Materials / Flooring",
    "where": "Back of store, flooring and lumber",
    "url": "https://www.homedepot.com/s/1006544256"
-  },
-  {
-   "sku": "1012-740-832",
-   "name": "Mountains Grey 12 MIL X 12 in. W X 24 in. L Waterproof Click Lock Luxury Viny...",
-   "retail": 48.23,
-   "reports": 2,
-   "states": 2,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "4 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 4,
-   "swfl": false,
-   "score": 96.5,
-   "img": "https://images.thdstatic.com/productImages/c3bdfc96-9400-4590-bb3b-5106bcf49b69/svn/mountains-gray-home-decorators-collection-vinyl-plank-flooring-vtrhdmougr12x24-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "url": "https://www.homedepot.com/s/1012740832"
-  },
-  {
-   "sku": "1009-381-540",
-   "name": "Myq Smart Wireless Garage Door Video Keypad",
-   "retail": 49.98,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 95.1,
-   "img": "https://images.thdstatic.com/productImages/fd6b0371-7962-4b7f-ad7e-06d6a104c4dd/svn/chamberlain-garage-door-opener-keypads-myq-k40txxw-64_400.jpg",
-   "zone": "Electrical",
-   "where": "Middle of store, electrical aisles",
-   "url": "https://www.homedepot.com/s/1009381540"
   },
   {
    "sku": "1007-608-689",
@@ -2252,6 +2252,27 @@
    "url": "https://www.homedepot.com/s/1013045587"
   },
   {
+   "sku": "1012-308-531",
+   "name": "#10 X 1-3/4 in. Black 6-Lobe Torx Drive Exterior Flat Head Multi-Material Scr...",
+   "retail": 12.98,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 38.9,
+   "img": "https://images.thdstatic.com/productImages/ff53ff7c-8dc5-41df-92c8-2e2b94c53b9d/svn/everbilt-wood-screws-115356-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "url": "https://www.homedepot.com/s/1012308531"
+  },
+  {
    "sku": "1011-107-956",
    "name": "40 in. x 40 in. Fire Blanket",
    "retail": 14.27,
@@ -2334,27 +2355,6 @@
    "zone": "Building Materials / Flooring",
    "where": "Back of store, flooring and lumber",
    "url": "https://www.homedepot.com/s/1003076277"
-  },
-  {
-   "sku": "1012-308-531",
-   "name": "#10 X 1-3/4 in. Black 6-Lobe Torx Drive Exterior Flat Head Multi-Material Scr...",
-   "retail": 12.98,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 24.7,
-   "img": "https://images.thdstatic.com/productImages/ff53ff7c-8dc5-41df-92c8-2e2b94c53b9d/svn/everbilt-wood-screws-115356-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "url": "https://www.homedepot.com/s/1012308531"
   },
   {
    "sku": "1015-125-935",
