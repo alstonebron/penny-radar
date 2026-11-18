@@ -1,7 +1,11 @@
 import re,json,html,urllib.request,urllib.parse,datetime,sys,os
 UA={"User-Agent":"Mozilla/5.0"}
 def get(u):
-    return urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=30).read().decode('utf8','ignore')
+    for t in range(3):
+        try:return urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=30).read().decode('utf8','ignore')
+        except Exception as e:
+            err=e
+    raise err
 def lines(h):
     t=re.sub(r'<script.*?</script>|<style.*?</style>','',h,flags=re.S)
     t=re.sub(r'<[^>]+>','\n',t); t=html.unescape(t)
@@ -91,18 +95,46 @@ try:
             add(l,L[i-1],0,"Penny Pinchin' Mom",skufmt=l);n+=1
     status["Penny Pinchin' Mom"]=n
 except Exception as e:status["Penny Pinchin' Mom"]="error "+str(e)
+def age_days(t):
+    t=(t or '').lower()
+    if 'today' in t or 'hour' in t or 'min' in t:return 0
+    if 'yesterday' in t:return 1
+    m=re.search(r'(\d+)\s*(day|week|month)',t)
+    if m:return int(m.group(1))*{'day':1,'week':7,'month':30}[m.group(2)]
+    m=re.match(r'(\d+)d',t)
+    return int(m.group(1)) if m else 99
+SWFL=re.compile(r'Fort Myers|Cape Coral|Bonita|Estero|Lehigh|Sanibel|Naples|Marco Island|Punta Gorda|Port Charlotte|Immokalee|Pine Island|Lee County',re.I)
 # score
 import math
 for d in items.values():
     srcb=1+0.25*(len(d["sources"])-1)
-    d["score"]=round((d["retail"] or 15)*math.log2(2+d["reports"])*(1+0.15*min(d["fl"],10))*(1.5 if d["lee"] else 1)*srcb,1)
+    d["age"]=age_days(d["last"])
+    rec=1.5 if d["age"]<=1 else 1.2 if d["age"]<=3 else 1.0 if d["age"]<=7 else 0.6 if d["age"]<=21 else 0.3
+    d["swfl"]=bool(SWFL.search(d["fl_cities"]))
+    d["score"]=round((d["retail"] or 15)*math.log2(2+d["reports"])*(1+0.15*min(d["fl"],10))*(1.5 if d["lee"] else 1)*(1.25 if d["swfl"] else 1)*srcb*rec,1)
 for d in items.values():
     d["img"]=findimg(d["name"]);d["zone"],d["where"]=zone(d["name"])
     d["url"]="https://www.homedepot.com/s/"+d["sku"].replace("-","")
+clear=[]
+for city,slug in [("Fort Myers","fort-myers-fl"),("Cape Coral","cape-coral-fl"),("Naples","naples-fl")]:
+    try:
+        H=get("https://endless.page/deals/home-depot/stores/%s/"%slug);n=0
+        for a in re.findall(r'<article class="ff-row".*?</article>',H,flags=re.S):
+            g=lambda c:(re.search(r'class="%s"[^>]*>([^<]*)<'%c,a) or [0,''])[1].strip()
+            title=html.unescape((re.search(r'ff-row-title"[^>]*>([^<]*)<',a) or [0,''])[1]).strip()
+            pct=int((re.search(r'(\d+)% off',g('ff-row-disc')) or [0,0])[1])
+            now=money(g('ff-row-now'));was=money(g('ff-row-was'))
+            im=re.search(r'<img src="([^"]+)"',a)
+            if title and pct:
+                clear.append({"city":city,"brand":html.unescape(g('ff-row-brand')),"name":title,"pct":pct,"now":now,"was":was,"stock":g('ff-row-stock'),"img":im.group(1) if im else '',"zone":zone(title)[0],"where":zone(title)[1],"lee":city in("Fort Myers","Cape Coral"),"url":"https://www.homedepot.com/s/"+urllib.parse.quote(title[:80])});n+=1
+        status["Clearance "+city]=n
+    except Exception as e:status["Clearance "+city]="error "+str(e)
+clear.sort(key=lambda c:(-c["pct"],-c["was"]))
 rows=sorted(items.values(),key=lambda d:-d["score"])
-out={"updated":datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-5))).strftime("%b %d, %I:%M %p ET"),"status":status,"items":rows}
-prev=set()
-try:prev={i["sku"] for i in json.load(open("data.json"))["items"]}
+out={"clear":clear,"updated":datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-5))).strftime("%b %d, %I:%M %p ET"),"status":status,"items":rows}
+prev=set();pc=set()
+try:
+    pj=json.load(open("data.json"));prev={i["sku"] for i in pj["items"]};pc={c["name"]+c["city"] for c in pj.get("clear",[])}
 except Exception:pass
 new=[i for i in rows if i["sku"] not in prev and (i["lee"] or i["score"]>=800 or i["fl"]>=3)]
 json.dump(out,open("data.json","w"),indent=1)
@@ -112,7 +144,12 @@ if topic and prev and new:
     try:
         urllib.request.urlopen(urllib.request.Request("https://ntfy.sh/"+topic,data=body.encode(),headers={"Title":f"{len(new)} new penny lead(s)","Click":"https://alstonebron.github.io/penny-radar/","Priority":"high" if any(i['lee'] for i in new) else "default"}),timeout=20)
     except Exception as e:print("ntfy fail",e)
-print("new",len(new))
+newc=[c for c in clear if c["lee"] and c["pct"]>=85 and c["name"]+c["city"] not in pc]
+if topic and pc and newc:
+    try:
+        urllib.request.urlopen(urllib.request.Request("https://ntfy.sh/"+topic,data="\n".join(f"{c['pct']}% off ${c['now']:.2f} {c['name'][:55]} ({c['city']})" for c in newc[:6]).encode(),headers={"Title":f"{len(newc)} deep clearance in Lee County","Click":"https://alstonebron.github.io/penny-radar/","Priority":"high"}),timeout=20)
+    except Exception as e:print("ntfy fail",e)
+print("new",len(new),len(newc))
 tpl=open("template.html").read().replace("__DATA__",json.dumps(out))
 open("index.html","w").write(tpl)
 print(status,len(rows))

@@ -1,12 +1,40 @@
 <!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Penny Radar</title>
-<style>body{font:15px system-ui;margin:0;background:#f6f7f9;color:#1a1a1a}header{background:#f96302;color:#fff;padding:14px 16px}h1{margin:0;font-size:20px}small{opacity:.9}
-.bar{display:flex;gap:8px;padding:10px 12px;flex-wrap:wrap;position:sticky;top:0;background:#f6f7f9}input,select{padding:9px;border:1px solid #ccc;border-radius:8px;font-size:15px}input{flex:1;min-width:140px}
-.c{overflow:hidden;background:#fff;margin:8px 12px;padding:12px;border-radius:10px;box-shadow:0 1px 2px #0002}.n{font-weight:600}.m{color:#555;font-size:13px;margin-top:4px}.b{display:inline-block;padding:2px 7px;border-radius:99px;font-size:12px;margin-right:4px;background:#eee}.lee{background:#d8f5dc;color:#116622}.p{float:right;font-weight:700;font-size:17px;color:#116622}
+<style>body{font:15px system-ui;margin:0;background:#f6f7f9;color:#1a1a1a}header{background:#f96302;color:#fff;padding:12px 16px}h1{margin:0;font-size:20px}small{opacity:.9}
+.bar{padding:8px 12px;position:sticky;top:0;background:#f6f7f9;z-index:5;border-bottom:1px solid #ddd}.row{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px}
+input,select{padding:8px;border:1px solid #ccc;border-radius:8px;font-size:14px}input[type=text]{flex:1;min-width:130px}
+.t{padding:7px 12px;border-radius:99px;border:1px solid #f96302;background:#fff;color:#c24e00;font-size:14px}.t.on{background:#f96302;color:#fff}
+.c{overflow:hidden;background:#fff;margin:8px 12px;padding:12px;border-radius:10px;box-shadow:0 1px 2px #0002}.n{font-weight:600}.m{color:#555;font-size:13px;margin-top:4px}
+.b{display:inline-block;padding:2px 7px;border-radius:99px;font-size:12px;margin-right:4px;background:#eee}.lee{background:#d8f5dc;color:#116622}.deep{background:#fde2e2;color:#a40000;font-weight:700}.old{background:#fff3cd;color:#7a5b00}.fresh{background:#d6ecff;color:#0b4f8a}
+.p{float:right;text-align:right;font-weight:700;font-size:15px}.p s{display:block;color:#888;font-weight:400;font-size:12px}
+.act button{margin:6px 6px 0 0;padding:6px 10px;border-radius:8px;border:1px solid #bbb;background:#fafafa;font-size:13px}.hit{background:#d8f5dc!important}.miss{background:#eee!important;color:#777}
 footer{padding:14px;font-size:12px;color:#666}a{color:#c24e00}</style></head><body>
 <header><h1>Penny Radar &middot; Lee County</h1><small id=u></small></header>
-<div class=bar><input id=q placeholder="Search name or SKU"><select id=f><option value=all>All items<option value=fl>Reported in Florida<option value=lee>Lee County area</select></div>
-<div id=l></div><footer id=s></footer>
-<script>const D=__DATA__;u.textContent="Updated "+D.updated+" · "+D.items.length+" SKUs";
-s.innerHTML="Sources: "+Object.entries(D.status).map(([k,v])=>k+" ("+v+")").join(", ")+".<br>Community reports, not guarantees. $0.01 shows only at the register; stores may decline. Ranked by retail value × report volume × Florida/Lee signals (retail is a proxy, not resale value). Scan with the HD app first and check out calmly at self-checkout.";
-function r(){const t=q.value.toLowerCase(),m=f.value;l.innerHTML=D.items.filter(d=>(!t||(d.name+d.sku).toLowerCase().includes(t))&&(m=="all"||(m=="fl"&&d.fl>0)||(m=="lee"&&d.lee))).slice(0,150).map(d=>`<div class=c>${d.img?`<img src="${d.img}" width=72 height=72 style="float:left;margin-right:10px;border-radius:8px;object-fit:contain">`:''}<span class=p>$${d.retail||"?"}</span><div class=n>${d.name}</div><div class=m><b>${d.zone}</b> · ${d.where}</div><div class=m>SKU ${d.sku} · ${d.reports} reports · seen ${d.last||"?"}</div><div class=m>${d.lee?'<span class="b lee">Lee County report</span>':''}${d.fl?'<span class=b>FL '+d.fl+(d.fl_cities?' ('+d.fl_cities+')':'')+'</span>':''}${d.sources.map(x=>'<span class=b>'+x+'</span>').join('')}<a href="${d.url}">Open in HD (aisle)</a> · <a href="https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(d.name)}&LH_Sold=1&LH_Complete=1">eBay sold</a></div></div>`).join("")}
-q.oninput=f.onchange=r;r();</script></body></html>
+<div class=bar>
+<div class=row><button class="t on" id=tp>Penny leads</button><button class=t id=tc>Local clearance</button><button class=t id=tl>Lee/SWFL only</button><button class=t id=th>Hide my misses</button></div>
+<div class=row><input type=text id=q placeholder="Search name or SKU">
+<select id=age><option value=999>Any age<option value=1>Last 24h<option value=3>Last 3 days<option value=7>Last 7 days<option value=30>Last 30 days</select>
+<select id=disc><option value=0>Any discount<option value=50>50%+ off<option value=75>75%+ off<option value=85>85-95% off</select>
+<select id=minp><option value=0>Any price<option value=25>$25+<option value=50>$50+<option value=100>$100+<option value=250>$250+</select>
+<select id=dept><option value="">All departments</select>
+<select id=sort><option value=score>Best match</option><option value=new>Newest report</option><option value=price>Highest value</option><option value=rep>Most reports</option><option value=disc>Deepest discount</option></select></div></div>
+<div id=cnt style="padding:6px 14px;font-size:13px;color:#555"></div><div id=l></div><footer id=s></footer>
+<script>const D=__DATA__;let mode='penny',lee=false,hide=false;
+const R=JSON.parse(localStorage.pr||'{}');const sv=()=>localStorage.pr=JSON.stringify(R);
+u.textContent="Updated "+D.updated+" · "+D.items.length+" penny leads · "+D.clear.length+" local clearance items";
+s.innerHTML="Sources: "+Object.entries(D.status).map(([k,v])=>k+" ("+v+")").join(", ")+".<br><b>Penny leads</b> are shopper reports from stores nationwide, not confirmed at your store. The price shown is the <b>retail</b> price; $0.01 shows only when scanned at the register, and stores may decline. <b>Local clearance</b> is real in-store markdown pricing at Lee County stores (store not specified per item). Your Hit/Miss marks are saved on this phone only. Scan the package barcode at self-checkout.";
+[...new Set([...D.items,...D.clear].map(d=>d.zone))].sort().forEach(z=>dept.add(new Option(z,z)));
+function tg(b,f){b.onclick=()=>{f();b.classList.toggle('on');r()}}
+tp.onclick=()=>{mode='penny';tp.classList.add('on');tc.classList.remove('on');r()};tc.onclick=()=>{mode='clear';tc.classList.add('on');tp.classList.remove('on');r()};
+tg(tl,()=>lee=!lee);tg(th,()=>hide=!hide);
+const ab=a=>a>=99?'':a==0?'<span class="b fresh">today</span>':a==1?'<span class="b fresh">yesterday</span>':a<=7?`<span class=b>${a}d ago</span>`:`<span class="b old">${a>=30?Math.round(a/30)+' mo':Math.round(a/7)+' wk'} ago</span>`;
+function mk(k){return `<div class=act><button class="${R[k]=='hit'?'hit':''}" onclick="mark('${k}','hit')">Found penny</button><button class="${R[k]=='miss'?'miss':''}" onclick="mark('${k}','miss')">Not a penny here</button></div>`}
+function mark(k,v){R[k]=R[k]==v?'':v;sv();r()}
+function r(){const t=q.value.toLowerCase(),A=+age.value,P=+minp.value,Dc=+disc.value,Z=dept.value;let h='',n=0;
+if(mode=='penny'){let a=D.items.filter(d=>(!t||(d.name+d.sku).toLowerCase().includes(t))&&d.age<=A&&d.retail>=P&&(!Z||d.zone==Z)&&(!lee||d.swfl||d.lee)&&!(hide&&R[d.sku]=='miss')&&Dc==0);
+const so={score:(x,y)=>y.score-x.score,new:(x,y)=>x.age-y.age,price:(x,y)=>y.retail-x.retail,rep:(x,y)=>y.reports-x.reports,disc:(x,y)=>y.score-x.score};a.sort(so[sort.value]);n=a.length;
+h=a.slice(0,150).map(d=>`<div class=c>${d.img?`<img src="${d.img}" width=72 height=72 style="float:left;margin-right:10px;border-radius:8px;object-fit:contain">`:''}<span class=p>Retail $${d.retail||'?'}</span><div class=n>${d.name}</div><div class=m><b>${d.zone}</b> · ${d.where}</div><div class=m>SKU ${d.sku} · ${d.reports} reports · last seen ${d.last||'?'} ${ab(d.age)}</div><div class=m>${d.lee?'<span class="b lee">Lee County report</span>':d.swfl?'<span class="b lee">SWFL report</span>':''}${d.fl?'<span class=b>FL '+d.fl+(d.fl_cities?' ('+d.fl_cities+')':'')+'</span>':''}${d.sources.map(x=>'<span class=b>'+x+'</span>').join('')}<a href="${d.url}">Open in HD (aisle)</a> · <a href="https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(d.name)}&LH_Sold=1&LH_Complete=1">eBay sold</a></div>${mk(d.sku)}</div>`).join('')}
+else{let a=D.clear.filter(d=>(!t||d.name.toLowerCase().includes(t))&&d.pct>=Dc&&(d.pct<=95)&&d.was>=P&&(!Z||d.zone==Z)&&(!lee||d.lee)&&!(hide&&R[d.name+d.city]=='miss'));
+const so={score:(x,y)=>y.pct*y.was-x.pct*x.was,new:(x,y)=>y.pct-x.pct,price:(x,y)=>y.was-x.was,rep:(x,y)=>y.pct-x.pct,disc:(x,y)=>y.pct-x.pct};a.sort(so[sort.value]);n=a.length;
+h=a.map(d=>{const k=d.name+d.city;return `<div class=c>${d.img?`<img src="${d.img}" width=72 height=72 style="float:left;margin-right:10px;border-radius:8px;object-fit:contain">`:''}<span class=p>$${d.now.toFixed(2)}<s>was $${d.was.toFixed(2)}</s></span><div class=n>${d.brand} ${d.name}</div><div class=m><span class="b ${d.pct>=85?'deep':''}">${d.pct}% off</span><span class="b ${d.lee?'lee':''}">${d.city}</span><span class=b>${d.stock}</span></div><div class=m><b>${d.zone}</b> · ${d.where}</div><div class=m><a href="${d.url}">Search on HD</a> · in-store price, confirm by scanning</div>${mk(k)}</div>`}).join('')}
+l.innerHTML=h||'<div class=c>Nothing matches these filters.</div>';cnt.textContent=n+' shown'}
+[q,age,disc,minp,dept,sort].forEach(e=>e.oninput=e.onchange=r);r();</script></body></html>
