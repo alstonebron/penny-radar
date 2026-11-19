@@ -450,17 +450,17 @@
   },
   {
    "city": "Naples",
-   "brand": "",
-   "name": "Lab 24 in. x 36 in. Fall Coir Layering Mat",
+   "brand": "Earthgro",
+   "name": "Earthgro 1.5 cu. ft. Red Wood Shredded Bagged Mulch",
    "pct": 75,
-   "now": 3.7,
-   "was": 14.88,
-   "stock": "29 in stock",
-   "img": "https://images.thdstatic.com/productImages/c9a963bf-539b-438b-bc68-9b800c2d3597/svn/brown-door-mats-60115309724x36-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
+   "now": 0.99,
+   "was": 3.97,
+   "stock": "187 in stock",
+   "img": "https://images.thdstatic.com/productImages/2ce5c2f3-ad55-43cc-8337-0b5b1afa62bc/svn/earthgro-wood-mulch-88459180-64_400.jpg",
+   "zone": "Storage / Organization",
+   "where": "Middle of store, storage aisles",
    "lee": false,
-   "url": "https://www.homedepot.com/s/Lab%2024%20in.%20x%2036%20in.%20Fall%20Coir%20Layering%20Mat"
+   "url": "https://www.homedepot.com/s/Earthgro%201.5%20cu.%20ft.%20Red%20Wood%20Shredded%20Bagged%20Mulch"
   },
   {
    "city": "Naples",
@@ -869,7 +869,7 @@
    "url": "https://www.homedepot.com/s/Turf%20Builder%2027.40%20lbs.%208%2C000%20sq.%20ft.%20Healthy%20Plus%20Lawn%20FoodFL%2C%202-in-1%20Fungicide"
   }
  ],
- "updated": "Nov 18, 04:20 PM ET",
+ "updated": "Nov 18, 10:10 PM ET",
  "status": {
   "PennyCentral": 56,
   "Penny Recon": 45,
@@ -883,7 +883,7 @@
    "sku": "1009-074-829",
    "name": "ONE+ HP 18V Brushless Bagless Cordless Pet Mesh Filter Stick Vacuum Cleaner (Tool Only)",
    "retail": 199.0,
-   "reports": 241,
+   "reports": 245,
    "states": 32,
    "fl": 17,
    "lee": false,
@@ -896,7 +896,7 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 8870.8,
+   "score": 8897.2,
    "img": "https://images.thdstatic.com/productImages/64e0d2df-d615-4342-9aae-229886bfcc8a/svn/ryobi-stick-vacuums-pblsv716b-64_400.jpg",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
@@ -927,7 +927,7 @@
    "sku": "215-583",
    "name": "12 inch Rough In Two-Piece 1.1 GPF/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
    "retail": 99.0,
-   "reports": 119,
+   "reports": 121,
    "states": 29,
    "fl": 11,
    "lee": false,
@@ -940,7 +940,7 @@
    ],
    "age": 0,
    "swfl": true,
-   "score": 4816.2,
+   "score": 4832.6,
    "img": "https://images.thdstatic.com/productImages/6fe20a93-2ab3-453c-b589-a96123a18b20/svn/white-glacier-bay-two-piece-toilets-n2316-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -973,7 +973,28 @@
    "sku": "1004-372-760",
    "name": "15 Amp 10 in. Portable Corded Pro Jobsite Table Saw With Stand",
    "retail": 549.0,
-   "reports": 3,
+   "reports": 4,
+   "states": 3,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 2128.7,
+   "img": "https://images.thdstatic.com/productImages/168e4060-a20d-4665-9db6-29e67b268842/svn/ridgid-portable-table-saws-r4514-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1004372760"
+  },
+  {
+   "sku": "1002-719-695",
+   "name": "Texas Trio 4-Burner Dual Fuel Grill With Smoker In Black",
+   "retail": 665.0,
+   "reports": 2,
    "states": 2,
    "fl": 0,
    "lee": false,
@@ -984,18 +1005,18 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 1912.1,
-   "img": "https://images.thdstatic.com/productImages/168e4060-a20d-4665-9db6-29e67b268842/svn/ridgid-portable-table-saws-r4514-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/1004372760"
+   "score": 1995.0,
+   "img": "https://images.thdstatic.com/productImages/debd434e-ba7e-4224-83f7-96770ca82192/svn/char-griller-combo-grills-3070-64_400.jpg",
+   "zone": "Outdoor / Garden",
+   "where": "Garden center or outdoor living, usually outside or at the front",
+   "url": "https://www.homedepot.com/s/1002719695"
   },
   {
    "sku": "1006-104-733",
    "name": "Floodlight Cam Wired Pro - Smart Security Video Camera with 2-LED Lights, Dual Band Wi-Fi, 3D Motion Detection, White",
    "retail": 229.99,
-   "reports": 7,
-   "states": 5,
+   "reports": 8,
+   "states": 6,
    "fl": 1,
    "lee": false,
    "fl_cities": "Lakeland",
@@ -1006,7 +1027,7 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 1572.0,
+   "score": 1647.4,
    "img": "https://images.thdstatic.com/productImages/3754c738-a5d4-440d-a7c3-04e4ab025b12/svn/white-ring-floodlights-b0cg6vffvl-64_400.jpg",
    "zone": "Lighting & Fans",
    "where": "Middle of store, lighting aisles",
@@ -1016,7 +1037,7 @@
    "sku": "1003-565-875",
    "name": "Wireless TV Headphones In Black",
    "retail": 35.98,
-   "reports": 59,
+   "reports": 61,
    "states": 19,
    "fl": 7,
    "lee": true,
@@ -1028,7 +1049,7 @@
    ],
    "age": 0,
    "swfl": true,
-   "score": 1537.9,
+   "score": 1550.0,
    "img": "https://images.thdstatic.com/productImages/63c9889c-576b-463f-8960-b56b3c3a1dd2/svn/own-zone-headphones-wn011112-64_400.jpg",
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
@@ -1038,7 +1059,7 @@
    "sku": "168-674",
    "name": "800 lb. Capacity D-Handle Hand Truck",
    "retail": 79.0,
-   "reports": 53,
+   "reports": 61,
    "states": 19,
    "fl": 3,
    "lee": false,
@@ -1051,32 +1072,11 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 1490.1,
+   "score": 1540.6,
    "img": "https://images.thdstatic.com/productImages/49981bea-07e3-4c94-81e8-c65ba9d9ac24/svn/milwaukee-hand-trucks-hd800p-64_400.jpg",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
    "url": "https://www.homedepot.com/s/168674"
-  },
-  {
-   "sku": "1002-719-695",
-   "name": "Texas Trio 4-Burner Dual Fuel Grill With Smoker In Black",
-   "retail": 665.0,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 1264.8,
-   "img": "https://images.thdstatic.com/productImages/debd434e-ba7e-4224-83f7-96770ca82192/svn/char-griller-combo-grills-3070-64_400.jpg",
-   "zone": "Outdoor / Garden",
-   "where": "Garden center or outdoor living, usually outside or at the front",
-   "url": "https://www.homedepot.com/s/1002719695"
   },
   {
    "sku": "1004-869-199",
@@ -1227,6 +1227,27 @@
    "url": "https://www.homedepot.com/s/1014119123"
   },
   {
+   "sku": "1008-718-547",
+   "name": "1500va 10-Outlet UPS RJ45 COAX USB Charging",
+   "retail": 201.65,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 605.0,
+   "img": "https://images.thdstatic.com/productImages/04ed765d-5669-5fa5-afba-48f8bef3c26a/svn/cyberpower-ups-battery-backup-lx1500gu3-64_400.jpg",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/1008718547"
+  },
+  {
    "sku": "1006-374-596",
    "name": "12000 Lumens/6000 Lumens Portable LED Work Light",
    "retail": 69.97,
@@ -1311,26 +1332,27 @@
    "url": "https://www.homedepot.com/s/1008631746"
   },
   {
-   "sku": "1006-423-739",
-   "name": "Hazel Heights 24 in. 3-Light Black Rustic Farmhouse Bathroom Vanity Light",
-   "retail": 69.97,
-   "reports": 18,
-   "states": 12,
-   "fl": 0,
+   "sku": "1010-362-919",
+   "name": "20-32 AWG Low Voltage Wire Stripper/Cutter With Dipped Grip",
+   "retail": 21.97,
+   "reports": 29,
+   "states": 15,
+   "fl": 4,
    "lee": false,
-   "fl_cities": "",
-   "last": "2 days ago",
+   "fl_cities": "West Palm Beach",
+   "last": "Today",
    "sources": [
     "PennyCentral",
+    "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 2,
+   "age": 0,
    "swfl": false,
-   "score": 453.6,
-   "img": "https://images.thdstatic.com/productImages/e2b8342a-eeef-4664-a047-e4a0a767a33d/svn/black-home-decorators-collection-vanity-lighting-knt1303ax-02-64_400.jpg",
-   "zone": "Plumbing / Bath",
-   "where": "Back-center of store, near Kitchen and Bath showrooms",
-   "url": "https://www.homedepot.com/s/1006423739"
+   "score": 391.8,
+   "img": "https://images.thdstatic.com/productImages/80ae809b-3875-4497-a2f0-095374f17838/svn/milwaukee-wire-strippers-48-22-3080-64_400.jpg",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/1010362919"
   },
   {
    "sku": "1011-373-998",
@@ -1354,32 +1376,11 @@
    "url": "https://www.homedepot.com/s/1011373998"
   },
   {
-   "sku": "1008-718-547",
-   "name": "1500va 10-Outlet UPS RJ45 COAX USB Charging",
-   "retail": 201.65,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "2 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 2,
-   "swfl": false,
-   "score": 383.5,
-   "img": "https://images.thdstatic.com/productImages/04ed765d-5669-5fa5-afba-48f8bef3c26a/svn/cyberpower-ups-battery-backup-lx1500gu3-64_400.jpg",
-   "zone": "Electrical",
-   "where": "Middle of store, electrical aisles",
-   "url": "https://www.homedepot.com/s/1008718547"
-  },
-  {
    "sku": "1012-388-248",
    "name": "800 Lumen LED Rechargeable Detachable Tripod Work Light",
    "retail": 19.88,
-   "reports": 118,
-   "states": 27,
+   "reports": 120,
+   "states": 28,
    "fl": 1,
    "lee": false,
    "fl_cities": "Panama City",
@@ -1391,41 +1392,18 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 355.3,
+   "score": 356.5,
    "img": "https://images.thdstatic.com/productImages/820881bc-6a07-4009-89d8-a940a267e55f/svn/husky-work-lights-k40526-64_400.jpg",
    "zone": "Lighting & Fans",
    "where": "Middle of store, lighting aisles",
    "url": "https://www.homedepot.com/s/1012388248"
   },
   {
-   "sku": "1010-362-919",
-   "name": "20-32 AWG Low Voltage Wire Stripper/Cutter With Dipped Grip",
-   "retail": 21.97,
-   "reports": 28,
-   "states": 15,
-   "fl": 3,
-   "lee": false,
-   "fl_cities": "West Palm Beach",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral",
-    "Penny Recon",
-    "Penny Pinchin' Mom"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 351.7,
-   "img": "https://images.thdstatic.com/productImages/80ae809b-3875-4497-a2f0-095374f17838/svn/milwaukee-wire-strippers-48-22-3080-64_400.jpg",
-   "zone": "Electrical",
-   "where": "Middle of store, electrical aisles",
-   "url": "https://www.homedepot.com/s/1010362919"
-  },
-  {
    "sku": "1015-053-805",
    "name": "5/8 in. Dia. X 100 ft. Contractor Grade Garden Hose",
    "retail": 24.98,
-   "reports": 20,
-   "states": 10,
+   "reports": 21,
+   "states": 11,
    "fl": 4,
    "lee": false,
    "fl_cities": "Vero Beach, Fort Pierce, Melbourne, Jacksonville",
@@ -1436,7 +1414,7 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 334.2,
+   "score": 339.0,
    "img": "https://images.thdstatic.com/productImages/ff6c09cc-8f39-4b79-b2db-e8cc2d5357af/svn/black-flexon-garden-hoses-wcm58100hd-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -1464,27 +1442,25 @@
    "url": "https://www.homedepot.com/s/1005447581"
   },
   {
-   "sku": "1004-296-682",
-   "name": "Smart Lighting White Motion Activated Outdoor Integrated LED Spotlight Battery",
-   "retail": 39.99,
-   "reports": 10,
-   "states": 9,
-   "fl": 1,
+   "sku": "686-826",
+   "name": "2-Piece 1.28 GPF Single Flush Elongated Toilet In White",
+   "retail": 97.02,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "Today",
    "sources": [
-    "PennyCentral",
-    "Penny Recon",
-    "Penny Pinchin' Mom"
+    "PennyCentral"
    ],
-   "age": 2,
+   "age": 0,
    "swfl": false,
-   "score": 296.8,
-   "img": "https://images.thdstatic.com/productImages/384c9180-6a39-41c8-9dda-18b5135718c7/svn/white-ring-floodlights-5b11s8-wen0-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1004296682"
+   "score": 291.1,
+   "img": "https://images.thdstatic.com/productImages/6b86bbb4-2698-439e-a050-f87c9a8235e5/svn/white-glacier-bay-two-piece-toilets-tl-7620hc-ew-64_400.jpg",
+   "zone": "Plumbing / Bath",
+   "where": "Back-center of store, near Kitchen and Bath showrooms",
+   "url": "https://www.homedepot.com/s/686826"
   },
   {
    "sku": "1008-142-318",
@@ -1506,6 +1482,28 @@
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
    "url": "https://www.homedepot.com/s/1008142318"
+  },
+  {
+   "sku": "1004-296-682",
+   "name": "Smart Lighting White Motion Activated Outdoor Integrated LED Spotlight Battery",
+   "retail": 39.99,
+   "reports": 10,
+   "states": 9,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "yesterday",
+   "sources": [
+    "Penny Recon",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 1,
+   "swfl": false,
+   "score": 268.8,
+   "img": "",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1004296682"
   },
   {
    "sku": "1014-175-343",
@@ -1530,33 +1528,12 @@
    "url": "https://www.homedepot.com/s/1014175343"
   },
   {
-   "sku": "686-826",
-   "name": "2-Piece 1.28 GPF Single Flush Elongated Toilet In White",
-   "retail": 97.02,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 230.7,
-   "img": "https://images.thdstatic.com/productImages/6b86bbb4-2698-439e-a050-f87c9a8235e5/svn/white-glacier-bay-two-piece-toilets-tl-7620hc-ew-64_400.jpg",
-   "zone": "Plumbing / Bath",
-   "where": "Back-center of store, near Kitchen and Bath showrooms",
-   "url": "https://www.homedepot.com/s/686826"
-  },
-  {
    "sku": "155-180",
    "name": "8 ft. 6-Outlet Surge Protector With 45 Degree Flat Angle Plug, Black",
    "retail": 14.99,
-   "reports": 15,
-   "states": 8,
-   "fl": 4,
+   "reports": 17,
+   "states": 9,
+   "fl": 5,
    "lee": false,
    "fl_cities": "Orange Park",
    "last": "Today",
@@ -1567,11 +1544,77 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 220.6,
+   "score": 250.7,
    "img": "https://images.thdstatic.com/productImages/740ce6aa-bd6c-49e1-b56e-18bb69fc48ea/svn/black-commercial-electric-surge-protectors-ylpt-43b-64_400.jpg",
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
    "url": "https://www.homedepot.com/s/155180"
+  },
+  {
+   "sku": "1015-277-793",
+   "name": "20 gal. Heavy-Duty Moving And Storage Bag Gray Polypropylene (2-Pack)",
+   "retail": 19.99,
+   "reports": 15,
+   "states": 12,
+   "fl": 2,
+   "lee": false,
+   "fl_cities": "Palm Bay",
+   "last": "Today",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 239.0,
+   "img": "https://images.thdstatic.com/productImages/13196282-954f-4fed-b0ac-584fb0a725f9/svn/durasack-storage-bins-wp-movg-2pk-64_400.jpg",
+   "zone": "Storage / Organization",
+   "where": "Middle of store, storage aisles",
+   "url": "https://www.homedepot.com/s/1015277793"
+  },
+  {
+   "sku": "1004-043-727",
+   "name": "450va 120-Volt 8-Outlet UPS Battery Backup",
+   "retail": 64.99,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 195.0,
+   "img": "https://images.thdstatic.com/productImages/2ad1eee6-cc02-51b4-865d-7bb36485becf/svn/cyberpower-ups-battery-backup-se450g1-64_400.jpg",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/1004043727"
+  },
+  {
+   "sku": "1008-778-891",
+   "name": "Maxfit Modular 3/8 in. Drive Right Angle Attachment",
+   "retail": 24.97,
+   "reports": 10,
+   "states": 8,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "Port St. Lucie",
+   "last": "Today",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 193.0,
+   "img": "https://images.thdstatic.com/productImages/5b5d1ce8-b378-469b-99d5-79fb4143a223/svn/dewalt-drill-attachments-dwamra38-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "url": "https://www.homedepot.com/s/1008778891"
   },
   {
    "sku": "342574",
@@ -1593,28 +1636,6 @@
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
    "url": "https://www.homedepot.com/s/342574"
-  },
-  {
-   "sku": "1008-778-891",
-   "name": "Maxfit Modular 3/8 in. Drive Right Angle Attachment",
-   "retail": 24.97,
-   "reports": 6,
-   "states": 5,
-   "fl": 1,
-   "lee": false,
-   "fl_cities": "Port St. Lucie",
-   "last": "Today",
-   "sources": [
-    "PennyCentral",
-    "Penny Recon"
-   ],
-   "age": 0,
-   "swfl": false,
-   "score": 161.5,
-   "img": "https://images.thdstatic.com/productImages/5b5d1ce8-b378-469b-99d5-79fb4143a223/svn/dewalt-drill-attachments-dwamra38-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "url": "https://www.homedepot.com/s/1008778891"
   },
   {
    "sku": "1001-685-761",
@@ -1807,26 +1828,26 @@
    "url": "https://www.homedepot.com/s/1006037305"
   },
   {
-   "sku": "1015-277-793",
-   "name": "20 Gal. Heavy-Duty Moving and Storage Bag Gray Polypropylene (2-Pack)",
-   "retail": 19.99,
+   "sku": "527-997",
+   "name": "Instant-Read Grill Thermometer",
+   "retail": 16.99,
    "reports": 14,
-   "states": 11,
-   "fl": 2,
+   "states": 10,
+   "fl": 0,
    "lee": false,
-   "fl_cities": "Palm Bay",
-   "last": "4 days ago",
+   "fl_cities": "",
+   "last": "Today",
    "sources": [
-    "Penny Recon",
+    "PennyCentral",
     "Penny Pinchin' Mom"
    ],
-   "age": 4,
+   "age": 0,
    "swfl": false,
-   "score": 129.9,
-   "img": "",
-   "zone": "Storage / Organization",
-   "where": "Middle of store, storage aisles",
-   "url": "https://www.homedepot.com/s/1015277793"
+   "score": 127.4,
+   "img": "https://images.thdstatic.com/productImages/8f89791d-cecd-4596-94af-58ee9c66c759/svn/weber-grill-thermometers-6750-64_400.jpg",
+   "zone": "Outdoor / Garden",
+   "where": "Garden center or outdoor living, usually outside or at the front",
+   "url": "https://www.homedepot.com/s/527997"
   },
   {
    "sku": "1012-951-109",
@@ -1850,27 +1871,6 @@
    "url": "https://www.homedepot.com/s/1012951109"
   },
   {
-   "sku": "1004-043-727",
-   "name": "450va 120-Volt 8-Outlet UPS Battery Backup",
-   "retail": 64.99,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "2 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 2,
-   "swfl": false,
-   "score": 123.6,
-   "img": "https://images.thdstatic.com/productImages/2ad1eee6-cc02-51b4-865d-7bb36485becf/svn/cyberpower-ups-battery-backup-se450g1-64_400.jpg",
-   "zone": "Electrical",
-   "where": "Middle of store, electrical aisles",
-   "url": "https://www.homedepot.com/s/1004043727"
-  },
-  {
    "sku": "1007-984-718",
    "name": "Milwaukee 18 in. Red 4-Way Stretch Cut 3 Resistant Protective Arm Sleeves",
    "retail": 16.47,
@@ -1891,28 +1891,6 @@
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
    "url": "https://www.homedepot.com/s/1007984718"
-  },
-  {
-   "sku": "527-997",
-   "name": "Instant-Read Grill Thermometer",
-   "retail": 16.99,
-   "reports": 11,
-   "states": 7,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral",
-    "Penny Pinchin' Mom"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 117.9,
-   "img": "https://images.thdstatic.com/productImages/8f89791d-cecd-4596-94af-58ee9c66c759/svn/weber-grill-thermometers-6750-64_400.jpg",
-   "zone": "Outdoor / Garden",
-   "where": "Garden center or outdoor living, usually outside or at the front",
-   "url": "https://www.homedepot.com/s/527997"
   },
   {
    "sku": "1015-399-906",
@@ -1956,6 +1934,27 @@
    "zone": "Building Materials / Flooring",
    "where": "Back of store, flooring and lumber",
    "url": "https://www.homedepot.com/s/1015028835"
+  },
+  {
+   "sku": "1009-429-109",
+   "name": "Tonebridge Satin Nickel Single Cylinder Combo Pack With Square Rose",
+   "retail": 35.47,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 106.4,
+   "img": "https://images.thdstatic.com/productImages/61a36747-ae5b-4471-a8b5-4efe8bfad3cb/svn/defiant-door-lock-combo-packs-32ms3x2d91-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "url": "https://www.homedepot.com/s/1009429109"
   },
   {
    "sku": "1006-544-256",
@@ -2042,6 +2041,27 @@
    "url": "https://www.homedepot.com/s/1013121020"
   },
   {
+   "sku": "1011-585-025",
+   "name": "6 in. LED Infinitiedge Recessed Retrofit Light Trim, Adjustable CCT",
+   "retail": 16.97,
+   "reports": 5,
+   "states": 4,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 82.2,
+   "img": "https://images.thdstatic.com/productImages/07180c6b-0e0e-44a8-a326-89ed30732e14/svn/white-commercial-electric-recessed-lighting-retrofit-trims-92216-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1011585025"
+  },
+  {
    "sku": "1012-438-212",
    "name": "Expandable Marine Grade 3/4 in. x 50 ft. Standard Hose",
    "retail": 69.98,
@@ -2126,27 +2146,6 @@
    "url": "https://www.homedepot.com/s/1011926601"
   },
   {
-   "sku": "1011-585-025",
-   "name": "6 in. LED Infinitiedge Recessed Retrofit Light Trim, Adjustable CCT",
-   "retail": 16.97,
-   "reports": 4,
-   "states": 3,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 65.8,
-   "img": "https://images.thdstatic.com/productImages/07180c6b-0e0e-44a8-a326-89ed30732e14/svn/white-commercial-electric-recessed-lighting-retrofit-trims-92216-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1011585025"
-  },
-  {
    "sku": "1001-850-634",
    "name": "Chicago 1-Piece 24 in. L MDF Decorative Floating Shelf",
    "retail": 33.48,
@@ -2166,6 +2165,27 @@
    "zone": "Storage / Organization",
    "where": "Middle of store, storage aisles",
    "url": "https://www.homedepot.com/s/1001850634"
+  },
+  {
+   "sku": "1014-778-870",
+   "name": "2500 Lumens Dual Power Rechargeable Battery Or Solar Powered LED Work Light",
+   "retail": 19.88,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 59.6,
+   "img": "https://images.thdstatic.com/productImages/92bb07f1-1905-4c98-863e-490ee07d612e/svn/husky-work-lights-7902203011-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1014778870"
   },
   {
    "sku": "1010-984-022",
@@ -2210,27 +2230,6 @@
    "url": "https://www.homedepot.com/s/1007077866"
   },
   {
-   "sku": "1014-778-870",
-   "name": "2500 Lumens Dual Power Rechargeable Battery Or Solar Powered LED Work Light",
-   "retail": 19.88,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 47.3,
-   "img": "https://images.thdstatic.com/productImages/92bb07f1-1905-4c98-863e-490ee07d612e/svn/husky-work-lights-7902203011-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1014778870"
-  },
-  {
    "sku": "1013-045-587",
    "name": "Brookhaven Heights Hickory 10 mm T x 7.6 in. W Waterproof Laminate Flooring (21.06 sq. ft./case)",
    "retail": 37.69,
@@ -2273,6 +2272,27 @@
    "url": "https://www.homedepot.com/s/1012308531"
   },
   {
+   "sku": "1015-344-244",
+   "name": "5-Piece Hand Tool Kit",
+   "retail": 9.88,
+   "reports": 3,
+   "states": 3,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 34.4,
+   "img": "https://images.thdstatic.com/productImages/2e1d80cc-58b1-4207-b7b4-8c9d010e28e0/svn/metal-anvil-multi-tools-92120-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1015344244"
+  },
+  {
    "sku": "1011-107-956",
    "name": "40 in. x 40 in. Fire Blanket",
    "retail": 14.27,
@@ -2313,27 +2333,6 @@
    "zone": "General",
    "where": "Ask a Home Depot associate or check the app aisle number",
    "url": "https://www.homedepot.com/s/1012488992"
-  },
-  {
-   "sku": "1015-344-244",
-   "name": "5-Piece Hand Tool Kit",
-   "retail": 9.88,
-   "reports": 2,
-   "states": 2,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 29.6,
-   "img": "https://images.thdstatic.com/productImages/2e1d80cc-58b1-4207-b7b4-8c9d010e28e0/svn/metal-anvil-multi-tools-92120-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/1015344244"
   },
   {
    "sku": "1003-076-277",
@@ -2423,18 +2422,18 @@
    "sku": "699-292",
    "name": "Soft-Spray Plastic Ring Sprinkler",
    "retail": 4.98,
-   "reports": 1,
+   "reports": 2,
    "states": 1,
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "Yesterday",
+   "last": "Today",
    "sources": [
     "PennyCentral"
    ],
-   "age": 1,
+   "age": 0,
    "swfl": false,
-   "score": 11.8,
+   "score": 14.9,
    "img": "https://images.thdstatic.com/productImages/d6aee307-2b51-4d0f-9168-29493dce3c10/svn/orbit-stationary-sprinklers-27924-64_400.jpg",
    "zone": "Paint",
    "where": "Front or side of store, paint desk area",
@@ -2484,6 +2483,27 @@
    "url": "https://www.homedepot.com/s/1009872069"
   },
   {
+   "sku": "1006-423-739",
+   "name": "Hazel Heights 24 in. 3-Light Black Rustic Farmhouse Bathroom Vanity Light",
+   "retail": 0,
+   "reports": 0,
+   "states": 0,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "",
+   "sources": [
+    "Penny Pinchin' Mom"
+   ],
+   "age": 99,
+   "swfl": false,
+   "score": 4.5,
+   "img": "",
+   "zone": "Plumbing / Bath",
+   "where": "Back-center of store, near Kitchen and Bath showrooms",
+   "url": "https://www.homedepot.com/s/1006423739"
+  },
+  {
    "sku": "1009-749-973",
    "name": "BBQ Daddy Grill Brush \u2013 Bristle Free Steam Cleaning Scrubber",
    "retail": 0,
@@ -2524,6 +2544,27 @@
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
    "url": "https://www.homedepot.com/s/1001537757"
+  },
+  {
+   "sku": "164-674",
+   "name": "SKU 164674",
+   "retail": 0.01,
+   "reports": 1,
+   "states": 1,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 0.0,
+   "img": "",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "url": "https://www.homedepot.com/s/164674"
   },
   {
    "sku": "1010-139-541",
@@ -2587,27 +2628,6 @@
    "zone": "General",
    "where": "Ask a Home Depot associate or check the app aisle number",
    "url": "https://www.homedepot.com/s/1006432742"
-  },
-  {
-   "sku": "566-918",
-   "name": "SKU 566918",
-   "retail": 0.01,
-   "reports": 2,
-   "states": 2,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "2 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 2,
-   "swfl": false,
-   "score": 0.0,
-   "img": "",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "url": "https://www.homedepot.com/s/566918"
   }
  ]
 }
