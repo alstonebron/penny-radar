@@ -35,7 +35,7 @@
    "pct": 90,
    "now": 4.99,
    "was": 49.97,
-   "stock": "6 in stock",
+   "stock": "5 in stock",
    "img": "https://images.thdstatic.com/productImages/1a095313-e838-4d81-9eca-977e6d8ae458/svn/ryobi-pressure-washer-accessories-ry3112sb-64_400.jpg",
    "zone": "Paint",
    "where": "Front or side of store, paint desk area",
@@ -97,20 +97,6 @@
    "where": "Middle of store, lighting aisles",
    "lee": false,
    "url": "https://www.homedepot.com/s/Moonlight%20Breeze%20Scent%20Dryer%20Sheets%20%28120-Count%29"
-  },
-  {
-   "city": "Fort Myers",
-   "brand": "Pavestone",
-   "name": "RumbleStone Square 7 in. x 7 in. x 1.75 in. Greystone Concrete Paver",
-   "pct": 89,
-   "now": 0.3,
-   "was": 2.98,
-   "stock": "856 in stock",
-   "img": "https://images.thdstatic.com/productImages/111dcd8c-80ee-4ea1-a128-14af88f08a17/svn/greystone-pavestone-concrete-pavers-91134-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/RumbleStone%20Square%207%20in.%20x%207%20in.%20x%201.75%20in.%20Greystone%20Concrete%20Paver"
   },
   {
    "city": "Naples",
@@ -231,7 +217,7 @@
    "pct": 87,
    "now": 0.3,
    "was": 2.44,
-   "stock": "754 in stock",
+   "stock": "751 in stock",
    "img": "https://images.thdstatic.com/productImages/fab4db3b-455d-4d9d-8713-9100ac4464c5/svn/mosquito-repellent-bracelets-gqasbd3-64_400.jpg",
    "zone": "General",
    "where": "Ask a Home Depot associate or check the app aisle number",
@@ -365,20 +351,6 @@
    "url": "https://www.homedepot.com/s/Classic%20Joe%2018%20in.%20Charcoal%20Grill%20Cover%20in%20Black"
   },
   {
-   "city": "Fort Myers",
-   "brand": "Master Magnet",
-   "name": "1/2 in. x 3/16 in. Ceramic Disc Magnet (40-Pack)",
-   "pct": 79,
-   "now": 3.41,
-   "was": 16.89,
-   "stock": "2 in stock",
-   "img": "https://images.thdstatic.com/productImages/a81e42aa-47cb-410a-b815-47cd6cc38865/svn/master-magnet-magnets-96764-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/1/2%20in.%20x%203/16%20in.%20Ceramic%20Disc%20Magnet%20%2840-Pack%29"
-  },
-  {
    "city": "Naples",
    "brand": "Vigoro",
    "name": "8 in. Brown Metal Edging Corner Stake",
@@ -435,6 +407,20 @@
    "url": "https://www.homedepot.com/s/9%20in.%206/9%20TPI%20AMPED%20Demo%20Demon%20Carbide%20Teeth%20Reciprocating%20Saw%20Blade%20for%20General"
   },
   {
+   "city": "Fort Myers",
+   "brand": "",
+   "name": "8 oz. Lodge Seasoning Spray",
+   "pct": 77,
+   "now": 2.48,
+   "was": 10.92,
+   "stock": "5 in stock",
+   "img": "https://images.thdstatic.com/productImages/c1e91a6d-4c3a-4600-a10b-1cb9e54ecf28/svn/outdoor-cooking-accessories-a-spray-64_400.jpg",
+   "zone": "Paint",
+   "where": "Front or side of store, paint desk area",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/8%20oz.%20Lodge%20Seasoning%20Spray"
+  },
+  {
    "city": "Cape Coral",
    "brand": "",
    "name": "8 oz. Lodge Seasoning Spray",
@@ -447,6 +433,20 @@
    "where": "Front or side of store, paint desk area",
    "lee": true,
    "url": "https://www.homedepot.com/s/8%20oz.%20Lodge%20Seasoning%20Spray"
+  },
+  {
+   "city": "Fort Myers",
+   "brand": "Husky",
+   "name": "1/2 in. Impact Wrench 450 ft./lbs.",
+   "pct": 76,
+   "now": 13.0,
+   "was": 54.98,
+   "stock": "1 left",
+   "img": "https://images.thdstatic.com/productImages/72e67ed7-1b90-4938-b2e9-2d52f1a44197/svn/husky-air-impact-wrenches-h4440-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/1/2%20in.%20Impact%20Wrench%20450%20ft./lbs."
   },
   {
    "city": "Naples",
@@ -503,6 +503,20 @@
    "where": "Front-to-middle, power tools and hand tool aisles",
    "lee": true,
    "url": "https://www.homedepot.com/s/Side%20Mounted%20Cut-Off%20Tool"
+  },
+  {
+   "city": "Fort Myers",
+   "brand": "Husky",
+   "name": "250 ft./lbs. 3/8 In. Impact Wrench",
+   "pct": 75,
+   "now": 16.0,
+   "was": 64.98,
+   "stock": "11 in stock",
+   "img": "https://images.thdstatic.com/productImages/c3fd57c3-0bdd-44da-8a24-787dd1a3dd6c/svn/husky-air-impact-wrenches-h4425-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/250%20ft./lbs.%203/8%20In.%20Impact%20Wrench"
   },
   {
    "city": "Cape Coral",
@@ -729,20 +743,6 @@
    "url": "https://www.homedepot.com/s/6.6%20ft.%20LED%20Smart%20Gradient%20Color%20Changing%20Strip%20Light%20Base%20Kit%20with%20Bluetooth%20%281"
   },
   {
-   "city": "Fort Myers",
-   "brand": "Traeger",
-   "name": "Traeger Flatrock 2-Burner Zone Grill, Propane Black Flat Top Griddle",
-   "pct": 50,
-   "now": 399.5,
-   "was": 799.99,
-   "stock": "1 left",
-   "img": "https://images.thdstatic.com/productImages/29149107-b5f7-4bf4-a6f6-29020537f739/svn/traeger-flat-top-grills-tf2nn46dn-64_400.jpg",
-   "zone": "Outdoor / Garden",
-   "where": "Garden center or outdoor living, usually outside or at the front",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/Traeger%20Flatrock%202-Burner%20Zone%20Grill%2C%20Propane%20Black%20Flat%20Top%20Griddle"
-  },
-  {
    "city": "Cape Coral",
    "brand": "Traeger",
    "name": "Traeger Flatrock 2-Burner Zone Grill, Propane Black Flat Top Griddle",
@@ -819,7 +819,7 @@
    "pct": 50,
    "now": 134.25,
    "was": 269.0,
-   "stock": "5 in stock",
+   "stock": "4 in stock",
    "img": "https://images.thdstatic.com/productImages/d2bfad3d-8a46-4e5c-b8ea-7f959b39865c/svn/dewalt-power-tool-batteries-dcb2104-2-64_400.jpg",
    "zone": "General",
    "where": "Ask a Home Depot associate or check the app aisle number",
@@ -861,7 +861,7 @@
    "pct": 50,
    "now": 124.5,
    "was": 249.0,
-   "stock": "3 in stock",
+   "stock": "2 in stock",
    "img": "https://images.thdstatic.com/productImages/39e3e670-14e1-455a-81e2-038b99b99470/svn/nexgrill-flat-top-grills-720-1075b-64_400.jpg",
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
@@ -953,7 +953,7 @@
    "url": "https://www.homedepot.com/s/12%20in.%20Portable%20Propane%20Gas%20Outdoor%20Pizza%20Oven%20in%20Black%20with%20Case%2C%20Pizza%20Peel%20an"
   }
  ],
- "updated": "Nov 20, 08:21 PM ET",
+ "updated": "Nov 21, 04:36 AM ET",
  "status": {
   "PennyCentral": 56,
   "Penny Recon": 49,
@@ -967,20 +967,20 @@
    "sku": "1009-074-829",
    "name": "ONE+ HP 18V Brushless Bagless Cordless Pet Mesh Filter Stick Vacuum Cleaner (Tool Only)",
    "retail": 199.0,
-   "reports": 251,
+   "reports": 252,
    "states": 33,
    "fl": 17,
    "lee": false,
    "fl_cities": "West Palm Beach, Brandon, Yulee, Key West",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": false,
-   "score": 8936.0,
+   "score": 8942.3,
    "img": "https://images.thdstatic.com/productImages/64e0d2df-d615-4342-9aae-229886bfcc8a/svn/ryobi-stick-vacuums-pblsv716b-64_400.jpg",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
@@ -995,13 +995,13 @@
    "fl": 11,
    "lee": false,
    "fl_cities": "Clearwater, Riverview, Miami, Naples",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": true,
    "score": 4911.1,
    "img": "https://images.thdstatic.com/productImages/6fe20a93-2ab3-453c-b589-a96123a18b20/svn/white-glacier-bay-two-piece-toilets-n2316-64_400.jpg",
@@ -1039,15 +1039,15 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "",
-   "last": "3 days ago",
+   "last": "4 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 3,
+   "age": 4,
    "swfl": false,
-   "score": 2570.8,
+   "score": 2142.3,
    "img": "https://images.thdstatic.com/productImages/3a29fdf0-45c0-4267-b707-59bcfabc9eea/svn/home-decorators-collection-bathroom-vanities-with-tops-pplnkwht24d-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -1062,13 +1062,13 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "Yesterday",
+   "last": "2 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 1,
+   "age": 2,
    "swfl": false,
-   "score": 2311.9,
+   "score": 1849.5,
    "img": "https://images.thdstatic.com/productImages/168e4060-a20d-4665-9db6-29e67b268842/svn/ridgid-portable-table-saws-r4514-64_400.jpg",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
@@ -1083,40 +1083,17 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 1596.0,
    "img": "https://images.thdstatic.com/productImages/debd434e-ba7e-4224-83f7-96770ca82192/svn/char-griller-combo-grills-3070-64_400.jpg",
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
    "url": "https://www.homedepot.com/s/1002719695"
-  },
-  {
-   "sku": "168-674",
-   "name": "800 lb. Capacity D-Handle Hand Truck",
-   "retail": 79.0,
-   "reports": 70,
-   "states": 21,
-   "fl": 3,
-   "lee": false,
-   "fl_cities": "Pace, Boynton Beach, Tallahassee",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral",
-    "Penny Recon",
-    "Penny Pinchin' Mom"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 1590.2,
-   "img": "https://images.thdstatic.com/productImages/49981bea-07e3-4c94-81e8-c65ba9d9ac24/svn/milwaukee-hand-trucks-hd800p-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/168674"
   },
   {
    "sku": "1006-104-733",
@@ -1127,18 +1104,41 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Lakeland",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 1317.9,
    "img": "https://images.thdstatic.com/productImages/3754c738-a5d4-440d-a7c3-04e4ab025b12/svn/white-ring-floodlights-b0cg6vffvl-64_400.jpg",
    "zone": "Lighting & Fans",
    "where": "Middle of store, lighting aisles",
    "url": "https://www.homedepot.com/s/1006104733"
+  },
+  {
+   "sku": "168-674",
+   "name": "800 lb. Capacity D-Handle Hand Truck",
+   "retail": 79.0,
+   "reports": 70,
+   "states": 21,
+   "fl": 3,
+   "lee": false,
+   "fl_cities": "Pace, Boynton Beach, Tallahassee",
+   "last": "2 days ago",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 2,
+   "swfl": false,
+   "score": 1272.2,
+   "img": "https://images.thdstatic.com/productImages/49981bea-07e3-4c94-81e8-c65ba9d9ac24/svn/milwaukee-hand-trucks-hd800p-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/168674"
   },
   {
    "sku": "1003-565-875",
@@ -1149,39 +1149,18 @@
    "fl": 7,
    "lee": true,
    "fl_cities": "Daytona Beach, Fort Myers, Oviedo, Tampa",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": true,
    "score": 1244.7,
    "img": "https://images.thdstatic.com/productImages/63c9889c-576b-463f-8960-b56b3c3a1dd2/svn/own-zone-headphones-wn011112-64_400.jpg",
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
    "url": "https://www.homedepot.com/s/1003565875"
-  },
-  {
-   "sku": "1007-473-601",
-   "name": "ONE+ HP 18v Cordless Pet Stick Vacuum Cleaner Kit With 4.0 Ah HIGH PERFORMANC...",
-   "retail": 199.0,
-   "reports": 15,
-   "states": 7,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 1220.1,
-   "img": "https://images.thdstatic.com/productImages/98132532-80b5-452a-b7cf-c100b058225d/svn/ryobi-stick-vacuums-pblsv716k-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/1007473601"
   },
   {
    "sku": "1004-869-199",
@@ -1192,12 +1171,12 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 1200.3,
    "img": "https://images.thdstatic.com/productImages/b208fca1-97ef-4ef4-ae6a-a712867c7398/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-64_400.jpg",
@@ -1214,11 +1193,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": false,
    "score": 1120.6,
    "img": "https://images.thdstatic.com/productImages/00885530-4984-49c7-b98e-47ecee9ac3cc/svn/brushed-nickel-with-frosted-glass-home-decorators-collection-vanity-lighting-28025-hbu-64_400.jpg",
@@ -1248,46 +1227,25 @@
    "url": "https://www.homedepot.com/s/1008625777"
   },
   {
-   "sku": "1009-599-161",
-   "name": "Genesis Grill 300 Series Rust-Resistant Griddle Insert",
-   "retail": 269.99,
-   "reports": 2,
-   "states": 2,
+   "sku": "1007-473-601",
+   "name": "ONE+ HP 18v Cordless Pet Stick Vacuum Cleaner Kit With 4.0 Ah HIGH PERFORMANC...",
+   "retail": 199.0,
+   "reports": 15,
+   "states": 7,
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "Yesterday",
+   "last": "2 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 1,
+   "age": 2,
    "swfl": false,
-   "score": 810.0,
-   "img": "https://images.thdstatic.com/productImages/915bbf22-bb83-4033-8eae-99190275eec7/svn/weber-grill-griddles-6788-64_400.jpg",
-   "zone": "Outdoor / Garden",
-   "where": "Garden center or outdoor living, usually outside or at the front",
-   "url": "https://www.homedepot.com/s/1009599161"
-  },
-  {
-   "sku": "1006-675-268",
-   "name": "Tupelo 30 in. W X 19 in. D X 34 in. H Single Sink Bath Vanity In Midnight Blu...",
-   "retail": 329.0,
-   "reports": 2,
-   "states": 2,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 789.6,
-   "img": "https://images.thdstatic.com/productImages/bf0fea83-f9c7-4009-979a-24f9005f76cf/svn/home-decorators-collection-bathroom-vanities-with-tops-tupelo-30mb-64_400.jpg",
-   "zone": "Plumbing / Bath",
-   "where": "Back-center of store, near Kitchen and Bath showrooms",
-   "url": "https://www.homedepot.com/s/1006675268"
+   "score": 976.1,
+   "img": "https://images.thdstatic.com/productImages/98132532-80b5-452a-b7cf-c100b058225d/svn/ryobi-stick-vacuums-pblsv716k-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1007473601"
   },
   {
    "sku": "1014-119-123",
@@ -1311,26 +1269,46 @@
    "url": "https://www.homedepot.com/s/1014119123"
   },
   {
-   "sku": "1004-871-058",
-   "name": "Alberson 5 in. Brushed Nickel 2-Light LED Sconce",
-   "retail": 99.97,
-   "reports": 16,
-   "states": 12,
+   "sku": "1006-675-268",
+   "name": "Tupelo 30 in. W X 19 in. D X 34 in. H Single Sink Bath Vanity In Midnight Blu...",
+   "retail": 329.0,
+   "reports": 2,
+   "states": 2,
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "3 days ago",
+   "last": "4 days ago",
    "sources": [
-    "PennyCentral",
-    "Penny Pinchin' Mom"
+    "PennyCentral"
    ],
-   "age": 3,
+   "age": 4,
    "swfl": false,
-   "score": 625.3,
-   "img": "https://images.thdstatic.com/productImages/09cbb8f3-73f2-41c8-af8a-3fcacfa515fe/svn/brushed-nickel-with-frosted-glass-home-decorators-collection-wall-sconces-28616-hbur-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1004871058"
+   "score": 658.0,
+   "img": "https://images.thdstatic.com/productImages/bf0fea83-f9c7-4009-979a-24f9005f76cf/svn/home-decorators-collection-bathroom-vanities-with-tops-tupelo-30mb-64_400.jpg",
+   "zone": "Plumbing / Bath",
+   "where": "Back-center of store, near Kitchen and Bath showrooms",
+   "url": "https://www.homedepot.com/s/1006675268"
+  },
+  {
+   "sku": "1009-599-161",
+   "name": "Genesis Grill 300 Series Rust-Resistant Griddle Insert",
+   "retail": 269.99,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "2 days ago",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 2,
+   "swfl": false,
+   "score": 648.0,
+   "img": "https://images.thdstatic.com/productImages/915bbf22-bb83-4033-8eae-99190275eec7/svn/weber-grill-griddles-6788-64_400.jpg",
+   "zone": "Outdoor / Garden",
+   "where": "Garden center or outdoor living, usually outside or at the front",
+   "url": "https://www.homedepot.com/s/1009599161"
   },
   {
    "sku": "1006-423-739",
@@ -1341,12 +1319,12 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral",
     "Penny Pinchin' Mom"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": false,
    "score": 609.2,
    "img": "https://images.thdstatic.com/productImages/e2b8342a-eeef-4664-a047-e4a0a767a33d/svn/black-home-decorators-collection-vanity-lighting-knt1303ax-02-64_400.jpg",
@@ -1376,26 +1354,69 @@
    "url": "https://www.homedepot.com/s/1008056500"
   },
   {
-   "sku": "1006-423-742",
-   "name": "Havelock 22.7 in. 1-Light Chrome Integrated LED Bathroom Vanity Light Bar with Clear Seedy Glass",
-   "retail": 99.97,
-   "reports": 7,
-   "states": 5,
+   "sku": "1004-153-623",
+   "name": "Black Anthracite 5-Tier Steel Wire Shelving Unit (48 in. W X 72 in. H X 18 in...",
+   "retail": 159.0,
+   "reports": 2,
+   "states": 2,
    "fl": 1,
    "lee": false,
    "fl_cities": "",
-   "last": "3 days ago",
+   "last": "Yesterday",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 1,
+   "swfl": false,
+   "score": 548.5,
+   "img": "https://images.thdstatic.com/productImages/5b8ee02e-a842-4313-b96a-c241f24ab713/svn/black-anthracite-trinity-freestanding-shelving-units-htbfpba-0950-64_400.jpg",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/1004153623"
+  },
+  {
+   "sku": "1004-871-058",
+   "name": "Alberson 5 in. Brushed Nickel 2-Light LED Sconce",
+   "retail": 99.97,
+   "reports": 16,
+   "states": 12,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "4 days ago",
+   "sources": [
+    "PennyCentral",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 4,
+   "swfl": false,
+   "score": 521.1,
+   "img": "https://images.thdstatic.com/productImages/09cbb8f3-73f2-41c8-af8a-3fcacfa515fe/svn/brushed-nickel-with-frosted-glass-home-decorators-collection-wall-sconces-28616-hbur-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1004871058"
+  },
+  {
+   "sku": "1014-175-343",
+   "name": "Monaco Oak 22 MIL x 9.06 in. W x 48.03 in. L Click Lock Waterproof Vinyl Plank Flooring (21.15 sq. ft. /Case)",
+   "retail": 63.24,
+   "reports": 7,
+   "states": 6,
+   "fl": 2,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 3,
+   "age": 0,
    "swfl": false,
-   "score": 546.6,
-   "img": "https://images.thdstatic.com/productImages/2c8e9e56-22d3-4eb6-b38d-69431f1c5db4/svn/chrome-hampton-bay-vanity-lighting-kgl1391l-2-cr-64_400.jpg",
-   "zone": "Plumbing / Bath",
-   "where": "Back-center of store, near Kitchen and Bath showrooms",
-   "url": "https://www.homedepot.com/s/1006423742"
+   "score": 488.6,
+   "img": "https://images.thdstatic.com/productImages/5ceb4e00-0132-4958-8813-e48f5f633224/svn/monaco-oak-lifeproof-vinyl-plank-flooring-652295314948-64_400.jpg",
+   "zone": "Building Materials / Flooring",
+   "where": "Back of store, flooring and lumber",
+   "url": "https://www.homedepot.com/s/1014175343"
   },
   {
    "sku": "1008-718-547",
@@ -1406,11 +1427,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 484.0,
    "img": "https://images.thdstatic.com/productImages/04ed765d-5669-5fa5-afba-48f8bef3c26a/svn/cyberpower-ups-battery-backup-lx1500gu3-64_400.jpg",
@@ -1469,17 +1490,38 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 381.6,
    "img": "https://images.thdstatic.com/productImages/8bf65127-7ca9-4af4-9ce0-1b8c1508dbb2/svn/chrome-hdx-freestanding-shelving-units-eh-wsthdus-505-64_400.jpg",
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
    "url": "https://www.homedepot.com/s/1005447581"
+  },
+  {
+   "sku": "1006-423-742",
+   "name": "Havelock 22.7 in. 1-Light Chrome Integrated LED Bathroom Vanity Light Bar with Clear Seedy Glass",
+   "retail": 99.97,
+   "reports": 7,
+   "states": 5,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "2 days ago",
+   "sources": [
+    "Penny Recon"
+   ],
+   "age": 2,
+   "swfl": false,
+   "score": 380.3,
+   "img": "",
+   "zone": "Plumbing / Bath",
+   "where": "Back-center of store, near Kitchen and Bath showrooms",
+   "url": "https://www.homedepot.com/s/1006423742"
   },
   {
    "sku": "1006-374-596",
@@ -1503,28 +1545,6 @@
    "url": "https://www.homedepot.com/s/1006374596"
   },
   {
-   "sku": "1014-175-343",
-   "name": "Monaco Oak 22 MIL x 9.06 in. W x 48.03 in. L Click Lock Waterproof Vinyl Plank Flooring (21.15 sq. ft. /Case)",
-   "retail": 63.24,
-   "reports": 4,
-   "states": 4,
-   "fl": 1,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Today",
-   "sources": [
-    "PennyCentral",
-    "Penny Recon"
-   ],
-   "age": 0,
-   "swfl": false,
-   "score": 352.5,
-   "img": "https://images.thdstatic.com/productImages/5ceb4e00-0132-4958-8813-e48f5f633224/svn/monaco-oak-lifeproof-vinyl-plank-flooring-652295314948-64_400.jpg",
-   "zone": "Building Materials / Flooring",
-   "where": "Back of store, flooring and lumber",
-   "url": "https://www.homedepot.com/s/1014175343"
-  },
-  {
    "sku": "1012-388-248",
    "name": "800 Lumen LED Rechargeable Detachable Tripod Work Light",
    "retail": 19.88,
@@ -1533,13 +1553,13 @@
    "fl": 2,
    "lee": false,
    "fl_cities": "Panama City",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 323.0,
    "img": "https://images.thdstatic.com/productImages/820881bc-6a07-4009-89d8-a940a267e55f/svn/husky-work-lights-k40526-64_400.jpg",
@@ -1556,40 +1576,19 @@
    "fl": 4,
    "lee": false,
    "fl_cities": "West Palm Beach, Orange Park",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 313.5,
    "img": "https://images.thdstatic.com/productImages/80ae809b-3875-4497-a2f0-095374f17838/svn/milwaukee-wire-strippers-48-22-3080-64_400.jpg",
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
    "url": "https://www.homedepot.com/s/1010362919"
-  },
-  {
-   "sku": "1011-373-998",
-   "name": "Aiden 17.7 in. Matte Black Downrod Mount Fandelier 8-Step CCT Ceiling Fan Wit...",
-   "retail": 129.0,
-   "reports": 2,
-   "states": 2,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 309.6,
-   "img": "https://images.thdstatic.com/productImages/bf551d3b-694d-47b8-a5f9-6876c6163555/svn/artika-ceiling-fans-with-lights-fan-air-hd2bl-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1011373998"
   },
   {
    "sku": "155-180",
@@ -1600,13 +1599,13 @@
    "fl": 6,
    "lee": false,
    "fl_cities": "Orange Park, St. Augustine, Jacksonville",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": false,
    "score": 285.8,
    "img": "https://images.thdstatic.com/productImages/740ce6aa-bd6c-49e1-b56e-18bb69fc48ea/svn/black-commercial-electric-surge-protectors-ylpt-43b-64_400.jpg",
@@ -1644,12 +1643,12 @@
    "fl": 4,
    "lee": false,
    "fl_cities": "Vero Beach, Fort Pierce, Melbourne, Jacksonville",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 271.2,
    "img": "https://images.thdstatic.com/productImages/ff6c09cc-8f39-4b79-b2db-e8cc2d5357af/svn/black-flexon-garden-hoses-wcm58100hd-64_400.jpg",
@@ -1666,12 +1665,12 @@
    "fl": 2,
    "lee": false,
    "fl_cities": "Port St. Lucie",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": false,
    "score": 258.5,
    "img": "https://images.thdstatic.com/productImages/5b5d1ce8-b378-469b-99d5-79fb4143a223/svn/dewalt-drill-attachments-dwamra38-64_400.jpg",
@@ -1680,27 +1679,25 @@
    "url": "https://www.homedepot.com/s/1008778891"
   },
   {
-   "sku": "1015-277-793",
-   "name": "20 gal. Heavy-Duty Moving And Storage Bag Gray Polypropylene (2-Pack)",
-   "retail": 19.99,
-   "reports": 16,
-   "states": 13,
-   "fl": 2,
+   "sku": "1011-373-998",
+   "name": "Aiden 17.7 in. Matte Black Downrod Mount Fandelier 8-Step CCT Ceiling Fan Wit...",
+   "retail": 129.0,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
    "lee": false,
-   "fl_cities": "Palm Bay",
-   "last": "Yesterday",
+   "fl_cities": "",
+   "last": "4 days ago",
    "sources": [
-    "PennyCentral",
-    "Penny Recon",
-    "Penny Pinchin' Mom"
+    "PennyCentral"
    ],
-   "age": 1,
+   "age": 4,
    "swfl": false,
-   "score": 243.8,
-   "img": "https://images.thdstatic.com/productImages/13196282-954f-4fed-b0ac-584fb0a725f9/svn/durasack-storage-bins-wp-movg-2pk-64_400.jpg",
-   "zone": "Storage / Organization",
-   "where": "Middle of store, storage aisles",
-   "url": "https://www.homedepot.com/s/1015277793"
+   "score": 258.0,
+   "img": "https://images.thdstatic.com/productImages/bf551d3b-694d-47b8-a5f9-6876c6163555/svn/artika-ceiling-fans-with-lights-fan-air-hd2bl-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1011373998"
   },
   {
    "sku": "686-826",
@@ -1711,17 +1708,40 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 232.8,
    "img": "https://images.thdstatic.com/productImages/6b86bbb4-2698-439e-a050-f87c9a8235e5/svn/white-glacier-bay-two-piece-toilets-tl-7620hc-ew-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
    "url": "https://www.homedepot.com/s/686826"
+  },
+  {
+   "sku": "1015-277-793",
+   "name": "20 gal. Heavy-Duty Moving And Storage Bag Gray Polypropylene (2-Pack)",
+   "retail": 19.99,
+   "reports": 16,
+   "states": 13,
+   "fl": 2,
+   "lee": false,
+   "fl_cities": "Palm Bay",
+   "last": "2 days ago",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 2,
+   "swfl": false,
+   "score": 195.1,
+   "img": "https://images.thdstatic.com/productImages/13196282-954f-4fed-b0ac-584fb0a725f9/svn/durasack-storage-bins-wp-movg-2pk-64_400.jpg",
+   "zone": "Storage / Organization",
+   "where": "Middle of store, storage aisles",
+   "url": "https://www.homedepot.com/s/1015277793"
   },
   {
    "sku": "1004-296-682",
@@ -1775,11 +1795,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 156.0,
    "img": "https://images.thdstatic.com/productImages/2ad1eee6-cc02-51b4-865d-7bb36485becf/svn/cyberpower-ups-battery-backup-se450g1-64_400.jpg",
@@ -1901,40 +1921,19 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 122.3,
    "img": "https://images.thdstatic.com/productImages/8f89791d-cecd-4596-94af-58ee9c66c759/svn/weber-grill-thermometers-6750-64_400.jpg",
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
    "url": "https://www.homedepot.com/s/527997"
-  },
-  {
-   "sku": "735-996",
-   "name": "36 in. Floating Shelf",
-   "retail": 42.98,
-   "reports": 3,
-   "states": 2,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 119.8,
-   "img": "https://images.thdstatic.com/productImages/df4973f0-35f5-47aa-967d-c6ff0fb84edf/svn/white-decorative-wall-shelves-hdcae36w-64_400.jpg",
-   "zone": "Storage / Organization",
-   "where": "Middle of store, storage aisles",
-   "url": "https://www.homedepot.com/s/735996"
   },
   {
    "sku": "1015-399-905",
@@ -1945,15 +1944,14 @@
    "fl": 2,
    "lee": false,
    "fl_cities": "Tampa, Melbourne",
-   "last": "4 days ago",
+   "last": "3 days ago",
    "sources": [
-    "PennyCentral",
     "Penny Recon"
    ],
-   "age": 4,
+   "age": 3,
    "swfl": false,
-   "score": 113.5,
-   "img": "https://images.thdstatic.com/productImages/ac1044ef-e59d-47f7-90d0-b7e9b055774a/svn/milwaukee-work-gloves-48-73-8902pm-64_400.jpg",
+   "score": 109.0,
+   "img": "",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
    "url": "https://www.homedepot.com/s/1015399905"
@@ -1967,12 +1965,12 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 104.5,
    "img": "https://images.thdstatic.com/productImages/5d2131c7-0c02-4209-931d-48aa92a46c79/svn/black-hampton-bay-floor-lamps-24122-000-64_400.jpg",
@@ -1981,26 +1979,46 @@
    "url": "https://www.homedepot.com/s/1007077866"
   },
   {
-   "sku": "1007-984-718",
-   "name": "Milwaukee 18 in. Red 4-Way Stretch Cut 3 Resistant Protective Arm Sleeves",
-   "retail": 16.47,
-   "reports": 8,
-   "states": 6,
-   "fl": 1,
+   "sku": "735-996",
+   "name": "36 in. Floating Shelf",
+   "retail": 42.98,
+   "reports": 3,
+   "states": 2,
+   "fl": 0,
    "lee": false,
-   "fl_cities": "Melbourne",
-   "last": "3 days ago",
+   "fl_cities": "",
+   "last": "4 days ago",
    "sources": [
-    "PennyCentral",
-    "Penny Recon"
+    "PennyCentral"
    ],
-   "age": 3,
+   "age": 4,
    "swfl": false,
-   "score": 94.4,
-   "img": "",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/1007984718"
+   "score": 99.8,
+   "img": "https://images.thdstatic.com/productImages/df4973f0-35f5-47aa-967d-c6ff0fb84edf/svn/white-decorative-wall-shelves-hdcae36w-64_400.jpg",
+   "zone": "Storage / Organization",
+   "where": "Middle of store, storage aisles",
+   "url": "https://www.homedepot.com/s/735996"
+  },
+  {
+   "sku": "1005-617-865",
+   "name": "15 Amp White Duplex Tamper-Resistant Outlets With 6 Amp USB Dual Type-C Power...",
+   "retail": 39.99,
+   "reports": 1,
+   "states": 1,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 95.1,
+   "img": "https://images.thdstatic.com/productImages/989bdf34-d53c-47f3-aa96-30a1d49d6f1a/svn/white-leviton-outlets-r02-t5635-0bw-64_400.jpg",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/1005617865"
   },
   {
    "sku": "735-567",
@@ -2011,11 +2029,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 91.2,
    "img": "https://images.thdstatic.com/productImages/f7ed0a02-f34b-495a-8afe-c99b000edb6f/svn/espresso-home-decorators-collection-decorative-wall-shelves-9085630-64_400.jpg",
@@ -2039,31 +2057,10 @@
    "age": 3,
    "swfl": false,
    "score": 88.8,
-   "img": "https://images.thdstatic.com/productImages/ac1044ef-e59d-47f7-90d0-b7e9b055774a/svn/milwaukee-work-gloves-48-73-8902pm-64_400.jpg",
+   "img": "",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
    "url": "https://www.homedepot.com/s/1015399906"
-  },
-  {
-   "sku": "1015-028-835",
-   "name": "Scale White 3 in. X 8.5 in. Matte Rectangle Ceramic Wall Tile (5.70 sq. Ft. /...",
-   "retail": 45.53,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 86.6,
-   "img": "https://images.thdstatic.com/productImages/fa57631e-1e0b-4581-8b1a-f5b77896b290/svn/white-jeffrey-court-ceramic-tile-13363-64_400.jpg",
-   "zone": "Building Materials / Flooring",
-   "where": "Back of store, flooring and lumber",
-   "url": "https://www.homedepot.com/s/1015028835"
   },
   {
    "sku": "1008-875-694",
@@ -2095,11 +2092,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 85.1,
    "img": "https://images.thdstatic.com/productImages/61a36747-ae5b-4471-a8b5-4efe8bfad3cb/svn/defiant-door-lock-combo-packs-32ms3x2d91-64_400.jpg",
@@ -2116,18 +2113,40 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Orange Park",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 82.2,
    "img": "https://images.thdstatic.com/productImages/07180c6b-0e0e-44a8-a326-89ed30732e14/svn/white-commercial-electric-recessed-lighting-retrofit-trims-92216-64_400.jpg",
    "zone": "Lighting & Fans",
    "where": "Middle of store, lighting aisles",
    "url": "https://www.homedepot.com/s/1011585025"
+  },
+  {
+   "sku": "1007-984-718",
+   "name": "Milwaukee 18 in. Red 4-Way Stretch Cut 3 Resistant Protective Arm Sleeves",
+   "retail": 16.47,
+   "reports": 8,
+   "states": 6,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "Melbourne",
+   "last": "4 days ago",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon"
+   ],
+   "age": 4,
+   "swfl": false,
+   "score": 78.6,
+   "img": "",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1007984718"
   },
   {
    "sku": "1012-438-212",
@@ -2151,25 +2170,25 @@
    "url": "https://www.homedepot.com/s/1012438212"
   },
   {
-   "sku": "1007-608-689",
-   "name": "PACKOUT M18 Battery Rack",
-   "retail": 24.97,
-   "reports": 3,
-   "states": 2,
+   "sku": "1015-028-835",
+   "name": "Scale White 3 in. X 8.5 in. Matte Rectangle Ceramic Wall Tile (5.70 sq. Ft. /...",
+   "retail": 45.53,
+   "reports": 1,
+   "states": 1,
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "3 days ago",
+   "last": "4 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 3,
+   "age": 4,
    "swfl": false,
-   "score": 69.6,
-   "img": "https://images.thdstatic.com/productImages/5e87d486-d320-446b-b841-1a0f96bdf513/svn/red-milwaukee-garage-storage-hooks-48-22-8339-64_400.jpg",
-   "zone": "Storage / Organization",
-   "where": "Middle of store, storage aisles",
-   "url": "https://www.homedepot.com/s/1007608689"
+   "score": 72.2,
+   "img": "https://images.thdstatic.com/productImages/fa57631e-1e0b-4581-8b1a-f5b77896b290/svn/white-jeffrey-court-ceramic-tile-13363-64_400.jpg",
+   "zone": "Building Materials / Flooring",
+   "where": "Back of store, flooring and lumber",
+   "url": "https://www.homedepot.com/s/1015028835"
   },
   {
    "sku": "1011-926-601",
@@ -2191,27 +2210,6 @@
    "zone": "Lighting & Fans",
    "where": "Middle of store, lighting aisles",
    "url": "https://www.homedepot.com/s/1011926601"
-  },
-  {
-   "sku": "1013-121-020",
-   "name": "9 in. 8 TPI Steel Demon AMPED Carbide Reciprocating Saw Blade For Thick Metal...",
-   "retail": 19.88,
-   "reports": 5,
-   "states": 4,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 67.0,
-   "img": "https://images.thdstatic.com/productImages/3862962f-c0f5-4b97-a74a-536d9dc281f1/svn/diablo-reciprocating-saw-blades-ds0908cfap-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/1013121020"
   },
   {
    "sku": "1012-951-109",
@@ -2256,6 +2254,48 @@
    "url": "https://www.homedepot.com/s/1006544256"
   },
   {
+   "sku": "1007-608-689",
+   "name": "PACKOUT M18 Battery Rack",
+   "retail": 24.97,
+   "reports": 3,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "4 days ago",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 4,
+   "swfl": false,
+   "score": 58.0,
+   "img": "https://images.thdstatic.com/productImages/5e87d486-d320-446b-b841-1a0f96bdf513/svn/red-milwaukee-garage-storage-hooks-48-22-8339-64_400.jpg",
+   "zone": "Storage / Organization",
+   "where": "Middle of store, storage aisles",
+   "url": "https://www.homedepot.com/s/1007608689"
+  },
+  {
+   "sku": "1013-121-020",
+   "name": "9 in. 8 TPI Steel Demon AMPED Carbide Reciprocating Saw Blade For Thick Metal...",
+   "retail": 19.88,
+   "reports": 5,
+   "states": 4,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "4 days ago",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 4,
+   "swfl": false,
+   "score": 55.8,
+   "img": "https://images.thdstatic.com/productImages/3862962f-c0f5-4b97-a74a-536d9dc281f1/svn/diablo-reciprocating-saw-blades-ds0908cfap-64_400.jpg",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1013121020"
+  },
+  {
    "sku": "1014-778-870",
    "name": "2500 Lumens Dual Power Rechargeable Battery Or Solar Powered LED Work Light",
    "retail": 19.88,
@@ -2264,11 +2304,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 47.7,
    "img": "https://images.thdstatic.com/productImages/92bb07f1-1905-4c98-863e-490ee07d612e/svn/husky-work-lights-7902203011-64_400.jpg",
@@ -2369,11 +2409,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 31.2,
    "img": "https://images.thdstatic.com/productImages/ff53ff7c-8dc5-41df-92c8-2e2b94c53b9d/svn/everbilt-wood-screws-115356-64_400.jpg",
@@ -2390,11 +2430,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 27.5,
    "img": "https://images.thdstatic.com/productImages/2e1d80cc-58b1-4207-b7b4-8c9d010e28e0/svn/metal-anvil-multi-tools-92120-64_400.jpg",
@@ -2424,25 +2464,25 @@
    "url": "https://www.homedepot.com/s/1003076277"
   },
   {
-   "sku": "1015-125-935",
-   "name": "50-Watt Equivalent PAR20 Dimmable Adjustable Beam Angle LED Light Bulb With S...",
-   "retail": 9.98,
+   "sku": "766-881",
+   "name": "4 oz. In A Bottle Synthetic Fuel Additive",
+   "retail": 7.97,
    "reports": 1,
    "states": 1,
-   "fl": 0,
+   "fl": 1,
    "lee": false,
    "fl_cities": "",
-   "last": "3 days ago",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral"
    ],
-   "age": 3,
+   "age": 1,
    "swfl": false,
-   "score": 19.0,
-   "img": "https://images.thdstatic.com/productImages/6a97eba7-f52c-414a-9f99-24b936570fbc/svn/feit-electric-flood-and-spot-light-bulbs-par20-adj-6wyca-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1015125935"
+   "score": 21.8,
+   "img": "https://images.thdstatic.com/productImages/9b54fd22-4a6d-46ab-a1cf-457f2272ac48/svn/mechanic-in-a-bottle-fuel-additives-2-004-1-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "url": "https://www.homedepot.com/s/766881"
   },
   {
    "sku": "1003-076-275",
@@ -2487,6 +2527,27 @@
    "url": "https://www.homedepot.com/s/1010494291"
   },
   {
+   "sku": "1015-125-935",
+   "name": "50-Watt Equivalent PAR20 Dimmable Adjustable Beam Angle LED Light Bulb With S...",
+   "retail": 9.98,
+   "reports": 1,
+   "states": 1,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "4 days ago",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 4,
+   "swfl": false,
+   "score": 15.8,
+   "img": "https://images.thdstatic.com/productImages/6a97eba7-f52c-414a-9f99-24b936570fbc/svn/feit-electric-flood-and-spot-light-bulbs-par20-adj-6wyca-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1015125935"
+  },
+  {
    "sku": "699-292",
    "name": "Soft-Spray Plastic Ring Sprinkler",
    "retail": 4.98,
@@ -2495,11 +2556,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 12.0,
    "img": "https://images.thdstatic.com/productImages/d6aee307-2b51-4d0f-9168-29493dce3c10/svn/orbit-stationary-sprinklers-27924-64_400.jpg",
@@ -2516,15 +2577,14 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Leesburg",
-   "last": "4 days ago",
+   "last": "3 days ago",
    "sources": [
-    "PennyCentral",
     "Penny Recon"
    ],
-   "age": 4,
+   "age": 3,
    "swfl": false,
-   "score": 6.6,
-   "img": "https://images.thdstatic.com/productImages/6a1aecac-ac68-4e03-93ca-119a19764d97/svn/white-hdx-general-purpose-spray-paint-af75005uf-64_400.jpg",
+   "score": 6.3,
+   "img": "",
    "zone": "Paint",
    "where": "Front or side of store, paint desk area",
    "url": "https://www.homedepot.com/s/1007607449"
@@ -2601,11 +2661,11 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": false,
    "score": 0.0,
    "img": "",
@@ -2622,11 +2682,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "Today",
+   "last": "Yesterday",
    "sources": [
     "PennyCentral"
    ],
-   "age": 0,
+   "age": 1,
    "swfl": false,
    "score": 0.0,
    "img": "",
@@ -2643,11 +2703,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 days ago",
+   "last": "3 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 2,
+   "age": 3,
    "swfl": false,
    "score": 0.0,
    "img": "",
@@ -2664,11 +2724,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "3 days ago",
+   "last": "4 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 3,
+   "age": 4,
    "swfl": false,
    "score": 0.0,
    "img": "",
@@ -2685,11 +2745,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "3 days ago",
+   "last": "4 days ago",
    "sources": [
     "PennyCentral"
    ],
-   "age": 3,
+   "age": 4,
    "swfl": false,
    "score": 0.0,
    "img": "",
