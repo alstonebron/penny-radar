@@ -1,34 +1,6 @@
 {
  "clear": [
   {
-   "city": "Cape Coral",
-   "brand": "RYOBI",
-   "name": "EZClean Power Cleaner Spinning Brush Accessory",
-   "pct": 95,
-   "now": 2.49,
-   "was": 49.97,
-   "stock": "19 in stock",
-   "img": "https://images.thdstatic.com/productImages/1a095313-e838-4d81-9eca-977e6d8ae458/svn/ryobi-pressure-washer-accessories-ry3112sb-64_400.jpg",
-   "zone": "Paint",
-   "where": "Front or side of store, paint desk area",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/EZClean%20Power%20Cleaner%20Spinning%20Brush%20Accessory"
-  },
-  {
-   "city": "Naples",
-   "brand": "RYOBI",
-   "name": "EZClean Power Cleaner Spinning Brush Accessory",
-   "pct": 95,
-   "now": 2.49,
-   "was": 49.97,
-   "stock": "11 in stock",
-   "img": "https://images.thdstatic.com/productImages/1a095313-e838-4d81-9eca-977e6d8ae458/svn/ryobi-pressure-washer-accessories-ry3112sb-64_400.jpg",
-   "zone": "Paint",
-   "where": "Front or side of store, paint desk area",
-   "lee": false,
-   "url": "https://www.homedepot.com/s/EZClean%20Power%20Cleaner%20Spinning%20Brush%20Accessory"
-  },
-  {
    "city": "Fort Myers",
    "brand": "RYOBI",
    "name": "EZClean Power Cleaner Spinning Brush Accessory",
@@ -40,6 +12,20 @@
    "zone": "Paint",
    "where": "Front or side of store, paint desk area",
    "lee": true,
+   "url": "https://www.homedepot.com/s/EZClean%20Power%20Cleaner%20Spinning%20Brush%20Accessory"
+  },
+  {
+   "city": "Naples",
+   "brand": "RYOBI",
+   "name": "EZClean Power Cleaner Spinning Brush Accessory",
+   "pct": 90,
+   "now": 4.99,
+   "was": 49.97,
+   "stock": "6 in stock",
+   "img": "https://images.thdstatic.com/productImages/1a095313-e838-4d81-9eca-977e6d8ae458/svn/ryobi-pressure-washer-accessories-ry3112sb-64_400.jpg",
+   "zone": "Paint",
+   "where": "Front or side of store, paint desk area",
+   "lee": false,
    "url": "https://www.homedepot.com/s/EZClean%20Power%20Cleaner%20Spinning%20Brush%20Accessory"
   },
   {
@@ -63,7 +49,7 @@
    "pct": 89,
    "now": 1.4,
    "was": 13.36,
-   "stock": "7 in stock",
+   "stock": "",
    "img": "https://images.thdstatic.com/productImages/e526a35c-ac61-4f88-beb9-f5daab5245e7/svn/electrical-grease-lubricants-900690-64_400.jpg",
    "zone": "Paint",
    "where": "Front or side of store, paint desk area",
@@ -83,20 +69,6 @@
    "where": "Ask a Home Depot associate or check the app aisle number",
    "lee": true,
    "url": "https://www.homedepot.com/s/1/2%20in.%20x%2010%20in.%20Black%20Steel%20Nipple"
-  },
-  {
-   "city": "Naples",
-   "brand": "Gain",
-   "name": "Moonlight Breeze Scent Dryer Sheets (120-Count)",
-   "pct": 89,
-   "now": 0.7,
-   "was": 6.38,
-   "stock": "",
-   "img": "https://images.thdstatic.com/productImages/479d0a66-4944-4164-9ae1-38fb645db6bf/svn/gain-dryer-sheets-dryer-balls-003700078057-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "lee": false,
-   "url": "https://www.homedepot.com/s/Moonlight%20Breeze%20Scent%20Dryer%20Sheets%20%28120-Count%29"
   },
   {
    "city": "Naples",
@@ -141,62 +113,6 @@
    "url": "https://www.homedepot.com/s/Mosquito%20Repellent%20Bracelet%20Assortment%20%283-Pack%29"
   },
   {
-   "city": "Fort Myers",
-   "brand": "DEWALT",
-   "name": "Hedge Sweep Accessory",
-   "pct": 88,
-   "now": 2.49,
-   "was": 20.97,
-   "stock": "12 in stock",
-   "img": "https://images.thdstatic.com/productImages/c1a16ddb-9299-44c2-863b-1092237885b4/svn/dewalt-cordless-hedge-trimmers-dczht800-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/Hedge%20Sweep%20Accessory"
-  },
-  {
-   "city": "Cape Coral",
-   "brand": "DEWALT",
-   "name": "Hedge Sweep Accessory",
-   "pct": 88,
-   "now": 2.49,
-   "was": 20.97,
-   "stock": "16 in stock",
-   "img": "https://images.thdstatic.com/productImages/c1a16ddb-9299-44c2-863b-1092237885b4/svn/dewalt-cordless-hedge-trimmers-dczht800-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/Hedge%20Sweep%20Accessory"
-  },
-  {
-   "city": "Naples",
-   "brand": "DEWALT",
-   "name": "Hedge Sweep Accessory",
-   "pct": 88,
-   "now": 2.49,
-   "was": 20.97,
-   "stock": "21 in stock",
-   "img": "https://images.thdstatic.com/productImages/c1a16ddb-9299-44c2-863b-1092237885b4/svn/dewalt-cordless-hedge-trimmers-dczht800-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": false,
-   "url": "https://www.homedepot.com/s/Hedge%20Sweep%20Accessory"
-  },
-  {
-   "city": "Naples",
-   "brand": "STEM",
-   "name": "Kills Flies, Mosquitoes and Gnats, Plant-Based Active Ingredient Insect Killer, 10 oz.",
-   "pct": 88,
-   "now": 0.73,
-   "was": 6.16,
-   "stock": "",
-   "img": "https://images.thdstatic.com/productImages/27c9000f-4c96-48dd-8ab0-220c0d0377a3/svn/stem-insecticide-spray-scj329962-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": false,
-   "url": "https://www.homedepot.com/s/Kills%20Flies%2C%20Mosquitoes%20and%20Gnats%2C%20Plant-Based%20Active%20Ingredient%20Insect%20Killer%2C%20"
-  },
-  {
    "city": "Naples",
    "brand": "Cutter",
    "name": "4 oz. Unscented Insect and Mosquito Repellent Aerosol Bug Spray",
@@ -217,7 +133,7 @@
    "pct": 87,
    "now": 0.3,
    "was": 2.44,
-   "stock": "616 in stock",
+   "stock": "601 in stock",
    "img": "https://images.thdstatic.com/productImages/fab4db3b-455d-4d9d-8713-9100ac4464c5/svn/mosquito-repellent-bracelets-gqasbd3-64_400.jpg",
    "zone": "General",
    "where": "Ask a Home Depot associate or check the app aisle number",
@@ -245,7 +161,7 @@
    "pct": 87,
    "now": 0.3,
    "was": 2.44,
-   "stock": "482 in stock",
+   "stock": "471 in stock",
    "img": "https://images.thdstatic.com/productImages/fab4db3b-455d-4d9d-8713-9100ac4464c5/svn/mosquito-repellent-bracelets-gqasbd3-64_400.jpg",
    "zone": "General",
    "where": "Ask a Home Depot associate or check the app aisle number",
@@ -337,13 +253,27 @@
    "url": "https://www.homedepot.com/s/9%20in.%20120-Watt%20Equivalent%20Oil-Rubbed%20Bronze%20Integrated%20LED%20Mushroom%20Flush%20Mount%20"
   },
   {
+   "city": "Naples",
+   "brand": "DSI LIGHTING",
+   "name": "20 in. 3-Light Matte Black Semi-Flush Mount with Painted Gold Interior Metal Shades",
+   "pct": 82,
+   "now": 17.08,
+   "was": 95.71,
+   "stock": "",
+   "img": "https://images.thdstatic.com/productImages/030c8585-ae9c-4153-9079-197a17f94fdd/svn/matte-black-dsi-lighting-flush-mount-ceiling-lights-dshd36891a-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "lee": false,
+   "url": "https://www.homedepot.com/s/20%20in.%203-Light%20Matte%20Black%20Semi-Flush%20Mount%20with%20Painted%20Gold%20Interior%20Metal%20Sha"
+  },
+  {
    "city": "Fort Myers",
    "brand": "BEMIS",
    "name": "NextStep2 with Round Potty Training with Plastic Children's Seat plus Antimicrobial Toilet Seat in White",
    "pct": 82,
    "now": 7.5,
    "was": 41.79,
-   "stock": "4 in stock",
+   "stock": "2 in stock",
    "img": "https://images.thdstatic.com/productImages/cd1ba0b9-2109-4e52-80de-0e7eb505fc9e/svn/white-bemis-toilet-seats-588mslec-000-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -394,6 +324,132 @@
   },
   {
    "city": "Fort Myers",
+   "brand": "Kidde",
+   "name": "AA Battery-Powered Smoke and Carbon Monoxide Detector, 30CUDR",
+   "pct": 80,
+   "now": 9.99,
+   "was": 49.97,
+   "stock": "80 in stock",
+   "img": "https://images.thdstatic.com/productImages/ba4c5036-10b5-4ad8-924a-c5d867f047cb/svn/kidde-smoke-and-carbon-monoxide-detectors-21031502-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/AA%20Battery-Powered%20Smoke%20and%20Carbon%20Monoxide%20Detector%2C%2030CUDR"
+  },
+  {
+   "city": "Cape Coral",
+   "brand": "Kidde",
+   "name": "AA Battery-Powered Smoke and Carbon Monoxide Detector, 30CUDR",
+   "pct": 80,
+   "now": 9.99,
+   "was": 49.97,
+   "stock": "114 in stock",
+   "img": "https://images.thdstatic.com/productImages/ba4c5036-10b5-4ad8-924a-c5d867f047cb/svn/kidde-smoke-and-carbon-monoxide-detectors-21031502-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/AA%20Battery-Powered%20Smoke%20and%20Carbon%20Monoxide%20Detector%2C%2030CUDR"
+  },
+  {
+   "city": "Cape Coral",
+   "brand": "Universal Security Instruments",
+   "name": "(3-Pack) 9-Volt Battery Operated Smoke Detector with Photoelectric Sensor",
+   "pct": 80,
+   "now": 9.6,
+   "was": 47.97,
+   "stock": "7 in stock",
+   "img": "https://images.thdstatic.com/productImages/b0d362d9-eca2-4fca-8bd7-b2700cd93069/svn/universal-security-instruments-smoke-detectors-usi-sm-rep-3-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/%283-Pack%29%209-Volt%20Battery%20Operated%20Smoke%20Detector%20with%20Photoelectric%20Sensor"
+  },
+  {
+   "city": "Fort Myers",
+   "brand": "Kidde",
+   "name": "AA Battery-Powered Smoke Detector, 20SDR",
+   "pct": 80,
+   "now": 5.59,
+   "was": 28.27,
+   "stock": "85 in stock",
+   "img": "https://images.thdstatic.com/productImages/26ded3ac-fe3c-4cdc-aed5-7bd8a34da606/svn/kidde-smoke-detectors-21031447-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/AA%20Battery-Powered%20Smoke%20Detector%2C%2020SDR"
+  },
+  {
+   "city": "Fort Myers",
+   "brand": "Kidde",
+   "name": "AA Battery-Powered Compact Smoke Detector, 10SDR",
+   "pct": 80,
+   "now": 3.79,
+   "was": 18.97,
+   "stock": "365 in stock",
+   "img": "https://images.thdstatic.com/productImages/b36fd61f-560b-4370-9390-60f7c0d93ce7/svn/kidde-smoke-detectors-21031428-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/AA%20Battery-Powered%20Compact%20Smoke%20Detector%2C%2010SDR"
+  },
+  {
+   "city": "Cape Coral",
+   "brand": "Kidde",
+   "name": "AA Battery-Powered Compact Smoke Detector, 10SDR",
+   "pct": 80,
+   "now": 3.79,
+   "was": 18.97,
+   "stock": "205 in stock",
+   "img": "https://images.thdstatic.com/productImages/b36fd61f-560b-4370-9390-60f7c0d93ce7/svn/kidde-smoke-detectors-21031428-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/AA%20Battery-Powered%20Compact%20Smoke%20Detector%2C%2010SDR"
+  },
+  {
+   "city": "Fort Myers",
+   "brand": "Commercial Electric",
+   "name": "9 in. 120-Watt Equivalent White Integrated LED Mushroom Flush Mount with White Acrylic Shade",
+   "pct": 79,
+   "now": 5.46,
+   "was": 26.97,
+   "stock": "2 in stock",
+   "img": "https://images.thdstatic.com/productImages/a1a5a0e2-7fdf-4d4b-924b-8a1457c35b55/svn/white-commercial-electric-flush-mount-ceiling-lights-ipf3011l-wht-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/9%20in.%20120-Watt%20Equivalent%20White%20Integrated%20LED%20Mushroom%20Flush%20Mount%20with%20White%20A"
+  },
+  {
+   "city": "Naples",
+   "brand": "Hampton Bay",
+   "name": "5 in. 1-Light Flush Mount Oil Rubbed Bronze",
+   "pct": 79,
+   "now": 2.83,
+   "was": 13.97,
+   "stock": "2 in stock",
+   "img": "https://images.thdstatic.com/productImages/8f9de4bf-0310-467e-8cd6-2fd14c0b440c/svn/oil-rubbed-bronze-hampton-bay-flush-mount-ceiling-lights-rs1951211-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "lee": false,
+   "url": "https://www.homedepot.com/s/5%20in.%201-Light%20Flush%20Mount%20Oil%20Rubbed%20Bronze"
+  },
+  {
+   "city": "Naples",
+   "brand": "Vigoro",
+   "name": "8 in. Brown Metal Edging Corner Stake",
+   "pct": 79,
+   "now": 1.8,
+   "was": 8.97,
+   "stock": "3 in stock",
+   "img": "https://images.thdstatic.com/productImages/0115c709-deb1-4c18-8146-f5f6675e2feb/svn/brown-vigoro-metal-edging-867281-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": false,
+   "url": "https://www.homedepot.com/s/8%20in.%20Brown%20Metal%20Edging%20Corner%20Stake"
+  },
+  {
+   "city": "Fort Myers",
    "brand": "StyleWell",
    "name": "Dover Bluff Square Dining Table",
    "pct": 78,
@@ -407,60 +463,60 @@
    "url": "https://www.homedepot.com/s/Dover%20Bluff%20Square%20Dining%20Table"
   },
   {
-   "city": "Fort Myers",
-   "brand": "DIABLO",
-   "name": "9 in. 6/9 TPI AMPED Demo Demon Carbide Teeth Reciprocating Saw Blade for General Purpose Cuts (2-Pack)",
-   "pct": 77,
-   "now": 3.97,
-   "was": 17.88,
-   "stock": "30 in stock",
-   "img": "https://images.thdstatic.com/productImages/73038a97-ffc9-4644-98aa-a1a0022e828e/svn/diablo-reciprocating-saw-blades-ds0909cgpap-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
+   "city": "Cape Coral",
+   "brand": "Universal Security Instruments",
+   "name": "9-Volt Battery Operated Smoke Detector with Photoelectric Sensor",
+   "pct": 78,
+   "now": 3.86,
+   "was": 17.97,
+   "stock": "24 in stock",
+   "img": "https://images.thdstatic.com/productImages/4d63c410-e460-4bcb-bd0c-5a2a849af4e3/svn/universal-security-instruments-smoke-detectors-usi-sm-rep-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
    "lee": true,
-   "url": "https://www.homedepot.com/s/9%20in.%206/9%20TPI%20AMPED%20Demo%20Demon%20Carbide%20Teeth%20Reciprocating%20Saw%20Blade%20for%20General"
+   "url": "https://www.homedepot.com/s/9-Volt%20Battery%20Operated%20Smoke%20Detector%20with%20Photoelectric%20Sensor"
+  },
+  {
+   "city": "Fort Myers",
+   "brand": "Kidde",
+   "name": "Compact 4 in. Battery Powered Smoke Detector with Photoelectric Sensor (4-Pack), 10SDR",
+   "pct": 77,
+   "now": 15.4,
+   "was": 68.47,
+   "stock": "43 in stock",
+   "img": "https://images.thdstatic.com/productImages/5b501efa-1573-48b7-96ab-121aace7dd16/svn/kidde-smoke-detectors-21031438-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/Compact%204%20in.%20Battery%20Powered%20Smoke%20Detector%20with%20Photoelectric%20Sensor%20%284-Pack%29%2C"
   },
   {
    "city": "Cape Coral",
-   "brand": "DIABLO",
-   "name": "9 in. 6/9 TPI AMPED Demo Demon Carbide Teeth Reciprocating Saw Blade for General Purpose Cuts (2-Pack)",
+   "brand": "Glacier Bay",
+   "name": "1-Spray Patterns with 1.8 GPM 4.5 in. Wall Mount Handheld Shower Head with Blade Spray Equiforce Technology in Chrome",
    "pct": 77,
-   "now": 3.97,
-   "was": 17.88,
-   "stock": "12 in stock",
-   "img": "https://images.thdstatic.com/productImages/73038a97-ffc9-4644-98aa-a1a0022e828e/svn/diablo-reciprocating-saw-blades-ds0909cgpap-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
+   "now": 4.49,
+   "was": 19.98,
+   "stock": "4 in stock",
+   "img": "https://images.thdstatic.com/productImages/d50ed575-a42b-4b68-ac20-c3cdcd51ec98/svn/chrome-glacier-bay-handheld-shower-heads-n9418ch-hh-64_400.jpg",
+   "zone": "Plumbing / Bath",
+   "where": "Back-center of store, near Kitchen and Bath showrooms",
    "lee": true,
-   "url": "https://www.homedepot.com/s/9%20in.%206/9%20TPI%20AMPED%20Demo%20Demon%20Carbide%20Teeth%20Reciprocating%20Saw%20Blade%20for%20General"
+   "url": "https://www.homedepot.com/s/1-Spray%20Patterns%20with%201.8%20GPM%204.5%20in.%20Wall%20Mount%20Handheld%20Shower%20Head%20with%20Blade"
   },
   {
-   "city": "Fort Myers",
-   "brand": "",
-   "name": "8 oz. Lodge Seasoning Spray",
-   "pct": 77,
-   "now": 2.48,
-   "was": 10.92,
-   "stock": "5 in stock",
-   "img": "https://images.thdstatic.com/productImages/c1e91a6d-4c3a-4600-a10b-1cb9e54ecf28/svn/outdoor-cooking-accessories-a-spray-64_400.jpg",
-   "zone": "Paint",
-   "where": "Front or side of store, paint desk area",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/8%20oz.%20Lodge%20Seasoning%20Spray"
-  },
-  {
-   "city": "Fort Myers",
-   "brand": "Husky",
-   "name": "1/2 in. Impact Wrench 450 ft./lbs.",
+   "city": "Cape Coral",
+   "brand": "DEWALT",
+   "name": "Hedge Sweep Accessory",
    "pct": 76,
-   "now": 13.0,
-   "was": 54.98,
-   "stock": "1 left",
-   "img": "https://images.thdstatic.com/productImages/72e67ed7-1b90-4938-b2e9-2d52f1a44197/svn/husky-air-impact-wrenches-h4440-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
+   "now": 4.99,
+   "was": 20.97,
+   "stock": "6 in stock",
+   "img": "https://images.thdstatic.com/productImages/c1a16ddb-9299-44c2-863b-1092237885b4/svn/dewalt-cordless-hedge-trimmers-dczht800-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
    "lee": true,
-   "url": "https://www.homedepot.com/s/1/2%20in.%20Impact%20Wrench%20450%20ft./lbs."
+   "url": "https://www.homedepot.com/s/Hedge%20Sweep%20Accessory"
   },
   {
    "city": "Naples",
@@ -519,20 +575,6 @@
    "url": "https://www.homedepot.com/s/Side%20Mounted%20Cut-Off%20Tool"
   },
   {
-   "city": "Fort Myers",
-   "brand": "Husky",
-   "name": "250 ft./lbs. 3/8 In. Impact Wrench",
-   "pct": 75,
-   "now": 16.0,
-   "was": 64.98,
-   "stock": "11 in stock",
-   "img": "https://images.thdstatic.com/productImages/c3fd57c3-0bdd-44da-8a24-787dd1a3dd6c/svn/husky-air-impact-wrenches-h4425-64_400.jpg",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/250%20ft./lbs.%203/8%20In.%20Impact%20Wrench"
-  },
-  {
    "city": "Cape Coral",
    "brand": "Scotts",
    "name": "Turf Builder 27.40 lbs. 8,000 sq. ft. Healthy Plus Lawn FoodFL, 2-in-1 Fungicide and Fertilizer, Withstand Summer Stress",
@@ -545,34 +587,6 @@
    "where": "Ask a Home Depot associate or check the app aisle number",
    "lee": true,
    "url": "https://www.homedepot.com/s/Turf%20Builder%2027.40%20lbs.%208%2C000%20sq.%20ft.%20Healthy%20Plus%20Lawn%20FoodFL%2C%202-in-1%20Fungicide"
-  },
-  {
-   "city": "Cape Coral",
-   "brand": "Hampton Bay",
-   "name": "18 in. x 18 in. Outdoor Patio Throw Pillow in Garden Flowers",
-   "pct": 75,
-   "now": 4.4,
-   "was": 17.98,
-   "stock": "47 in stock",
-   "img": "https://images.thdstatic.com/productImages/6d1b7532-69a3-421b-9e9a-7084569c4f09/svn/hampton-bay-outdoor-throw-pillows-hs13t07b-9d4-64_400.jpg",
-   "zone": "Outdoor / Garden",
-   "where": "Garden center or outdoor living, usually outside or at the front",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/18%20in.%20x%2018%20in.%20Outdoor%20Patio%20Throw%20Pillow%20in%20Garden%20Flowers"
-  },
-  {
-   "city": "Cape Coral",
-   "brand": "OFF!",
-   "name": "Active Insect Repellent I, Sweat Resistant Mosquito Spray with DEET, 6 oz.",
-   "pct": 75,
-   "now": 1.99,
-   "was": 8.07,
-   "stock": "246 in stock",
-   "img": "https://images.thdstatic.com/productImages/78fc319e-8ff2-448a-bf58-6450df8d83b1/svn/off-bug-spray-scj415442-64_400.jpg",
-   "zone": "Paint",
-   "where": "Front or side of store, paint desk area",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/Active%20Insect%20Repellent%20I%2C%20Sweat%20Resistant%20Mosquito%20Spray%20with%20DEET%2C%206%20oz."
   },
   {
    "city": "Naples",
@@ -589,13 +603,55 @@
    "url": "https://www.homedepot.com/s/56V%20High-Capacity%205.0Ah%20Lithium-Ion%20Battery%20with%20eCM%20Battery%20Management%20Technolo"
   },
   {
+   "city": "Cape Coral",
+   "brand": "DEWALT",
+   "name": "20V MAX XR Lithium-Ion 4.0 Ah Battery Packs (2-Pack)",
+   "pct": 66,
+   "now": 89.5,
+   "was": 269.0,
+   "stock": "4 in stock",
+   "img": "https://images.thdstatic.com/productImages/d2bfad3d-8a46-4e5c-b8ea-7f959b39865c/svn/dewalt-power-tool-batteries-dcb2104-2-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/20V%20MAX%20XR%20Lithium-Ion%204.0%20Ah%20Battery%20Packs%20%282-Pack%29"
+  },
+  {
+   "city": "Naples",
+   "brand": "DEWALT",
+   "name": "20V MAX XR Lithium-Ion 4.0 Ah Battery Packs (2-Pack)",
+   "pct": 66,
+   "now": 89.5,
+   "was": 269.0,
+   "stock": "12 in stock",
+   "img": "https://images.thdstatic.com/productImages/d2bfad3d-8a46-4e5c-b8ea-7f959b39865c/svn/dewalt-power-tool-batteries-dcb2104-2-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": false,
+   "url": "https://www.homedepot.com/s/20V%20MAX%20XR%20Lithium-Ion%204.0%20Ah%20Battery%20Packs%20%282-Pack%29"
+  },
+  {
+   "city": "Fort Myers",
+   "brand": "Kidde",
+   "name": "Battery Powered Smoke Detector with Photoelectric Sensor (3-Pack), 20SDR",
+   "pct": 66,
+   "now": 26.99,
+   "was": 79.97,
+   "stock": "9 in stock",
+   "img": "https://images.thdstatic.com/productImages/bbcf54bf-f6b0-4271-b9d8-32f903fef6e3/svn/kidde-smoke-detectors-21031448-64_400.jpg",
+   "zone": "General",
+   "where": "Ask a Home Depot associate or check the app aisle number",
+   "lee": true,
+   "url": "https://www.homedepot.com/s/Battery%20Powered%20Smoke%20Detector%20with%20Photoelectric%20Sensor%20%283-Pack%29%2C%2020SDR"
+  },
+  {
    "city": "Naples",
    "brand": "American Standard",
    "name": "Aspirations 12 in. Rough In 2-Piece 1.28 GPF Single Flush Elongated Toilet with Slow Close Seat in White",
    "pct": 65,
    "now": 94.15,
    "was": 269.0,
-   "stock": "5 in stock",
+   "stock": "3 in stock",
    "img": "https://images.thdstatic.com/productImages/d6b5d23d-0e4c-4dab-a994-da9e2f7a2a57/svn/white-american-standard-two-piece-toilets-786aa801-020-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -615,20 +671,6 @@
    "where": "Middle of store, lighting aisles",
    "lee": true,
    "url": "https://www.homedepot.com/s/14%20in.%203-Light%20Matte%20Black%20Semi-Flush%20Mount%20with%20Faux%20Concrete%20Metal%20Shade%20and%20N"
-  },
-  {
-   "city": "Fort Myers",
-   "brand": "Monteaux Lighting",
-   "name": "17.63 in. 3-Light Black Flush Mount Ceiling Light with Opal Glass Globe Shades",
-   "pct": 65,
-   "now": 26.99,
-   "was": 79.0,
-   "stock": "1 left",
-   "img": "https://images.thdstatic.com/productImages/4e455611-c751-4814-83e2-efbf22fd5fbc/svn/black-monteaux-lighting-flush-mount-ceiling-lights-b11613-bk-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/17.63%20in.%203-Light%20Black%20Flush%20Mount%20Ceiling%20Light%20with%20Opal%20Glass%20Globe%20Shades"
   },
   {
    "city": "Cape Coral",
@@ -827,34 +869,6 @@
    "url": "https://www.homedepot.com/s/20V%20MAX%20XR%20Lithium-Ion%204.0%20Ah%20Battery%20Packs%20%282-Pack%29"
   },
   {
-   "city": "Cape Coral",
-   "brand": "DEWALT",
-   "name": "20V MAX XR Lithium-Ion 4.0 Ah Battery Packs (2-Pack)",
-   "pct": 50,
-   "now": 134.25,
-   "was": 269.0,
-   "stock": "4 in stock",
-   "img": "https://images.thdstatic.com/productImages/d2bfad3d-8a46-4e5c-b8ea-7f959b39865c/svn/dewalt-power-tool-batteries-dcb2104-2-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": true,
-   "url": "https://www.homedepot.com/s/20V%20MAX%20XR%20Lithium-Ion%204.0%20Ah%20Battery%20Packs%20%282-Pack%29"
-  },
-  {
-   "city": "Naples",
-   "brand": "DEWALT",
-   "name": "20V MAX XR Lithium-Ion 4.0 Ah Battery Packs (2-Pack)",
-   "pct": 50,
-   "now": 134.25,
-   "was": 269.0,
-   "stock": "12 in stock",
-   "img": "https://images.thdstatic.com/productImages/d2bfad3d-8a46-4e5c-b8ea-7f959b39865c/svn/dewalt-power-tool-batteries-dcb2104-2-64_400.jpg",
-   "zone": "General",
-   "where": "Ask a Home Depot associate or check the app aisle number",
-   "lee": false,
-   "url": "https://www.homedepot.com/s/20V%20MAX%20XR%20Lithium-Ion%204.0%20Ah%20Battery%20Packs%20%282-Pack%29"
-  },
-  {
    "city": "Fort Myers",
    "brand": "Nexgrill",
    "name": "Daytona 2-Burner Propane Gas Grill 21 in. Flat Top Griddle with Foldable Cart in Black",
@@ -875,7 +889,7 @@
    "pct": 50,
    "now": 124.5,
    "was": 249.0,
-   "stock": "2 in stock",
+   "stock": "1 left",
    "img": "https://images.thdstatic.com/productImages/39e3e670-14e1-455a-81e2-038b99b99470/svn/nexgrill-flat-top-grills-720-1075b-64_400.jpg",
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
@@ -889,7 +903,7 @@
    "pct": 50,
    "now": 124.5,
    "was": 249.0,
-   "stock": "7 in stock",
+   "stock": "5 in stock",
    "img": "https://images.thdstatic.com/productImages/39e3e670-14e1-455a-81e2-038b99b99470/svn/nexgrill-flat-top-grills-720-1075b-64_400.jpg",
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
@@ -953,13 +967,13 @@
    "url": "https://www.homedepot.com/s/1.5%20cu.%20ft.%201000-Watt%20Countertop%20Microwave%20with%20Air%20Fry%20and%20Convection%20in%20Stainl"
   }
  ],
- "updated": "Nov 24, 12:53 AM ET",
+ "updated": "Nov 24, 12:29 PM ET",
  "status": {
   "PennyCentral": 56,
-  "Penny Recon": 51,
+  "Penny Recon": 53,
   "Penny Pinchin' Mom": 15,
   "Clearance Fort Myers": 22,
-  "Clearance Cape Coral": 22,
+  "Clearance Cape Coral": 23,
   "Clearance Naples": 24
  },
  "items": [
@@ -1011,20 +1025,20 @@
    "sku": "215-583",
    "name": "12 inch Rough In Two-Piece 1.1 GPF/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
    "retail": 99.0,
-   "reports": 174,
-   "states": 34,
-   "fl": 16,
+   "reports": 178,
+   "states": 35,
+   "fl": 17,
    "lee": false,
    "fl_cities": "Clearwater, Riverview, Miami, Naples",
-   "last": "Yesterday",
+   "last": "Today",
    "sources": [
     "PennyCentral",
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 1,
+   "age": 0,
    "swfl": true,
-   "score": 5192.5,
+   "score": 5215.0,
    "img": "https://images.thdstatic.com/productImages/6fe20a93-2ab3-453c-b589-a96123a18b20/svn/white-glacier-bay-two-piece-toilets-n2316-64_400.jpg",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
@@ -1039,11 +1053,11 @@
    "fl": 3,
    "lee": false,
    "fl_cities": "Melbourne",
-   "last": "11 days ago",
+   "last": "13 days ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 11,
+   "age": 13,
    "swfl": false,
    "score": 3001.9,
    "img": "",
@@ -1073,6 +1087,29 @@
    "url": "https://www.homedepot.com/s/1004372760"
   },
   {
+   "sku": "1004-871-058",
+   "name": "Alberson 5 in. Brushed Nickel 2-Light LED Sconce",
+   "retail": 99.97,
+   "reports": 24,
+   "states": 16,
+   "fl": 1,
+   "lee": true,
+   "fl_cities": "Cape Coral",
+   "last": "Today",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 0,
+   "swfl": true,
+   "score": 2279.8,
+   "img": "https://images.thdstatic.com/productImages/09cbb8f3-73f2-41c8-af8a-3fcacfa515fe/svn/brushed-nickel-with-frosted-glass-home-decorators-collection-wall-sconces-28616-hbur-64_400.jpg",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1004871058"
+  },
+  {
    "sku": "1006-104-733",
    "name": "Floodlight Cam Wired Pro - Smart Security Video Camera with 2-LED Lights, Dual Band Wi-Fi, 3D Motion Detection, White",
    "retail": 229.99,
@@ -1098,7 +1135,7 @@
    "sku": "168-674",
    "name": "800 lb. Capacity D-Handle Hand Truck",
    "retail": 79.0,
-   "reports": 77,
+   "reports": 81,
    "states": 22,
    "fl": 3,
    "lee": false,
@@ -1111,7 +1148,7 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 1624.7,
+   "score": 1643.1,
    "img": "https://images.thdstatic.com/productImages/49981bea-07e3-4c94-81e8-c65ba9d9ac24/svn/milwaukee-hand-trucks-hd800p-64_400.jpg",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
@@ -1126,12 +1163,12 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "4 days ago",
+   "last": "6 days ago",
    "sources": [
     "Penny Recon",
     "Penny Pinchin' Mom"
    ],
-   "age": 4,
+   "age": 6,
    "swfl": false,
    "score": 1552.4,
    "img": "",
@@ -1143,8 +1180,8 @@
    "sku": "1007-473-601",
    "name": "ONE+ HP 18v Cordless Pet Stick Vacuum Cleaner Kit With 4.0 Ah HIGH PERFORMANC...",
    "retail": 199.0,
-   "reports": 21,
-   "states": 9,
+   "reports": 23,
+   "states": 11,
    "fl": 0,
    "lee": false,
    "fl_cities": "",
@@ -1154,7 +1191,7 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 1350.3,
+   "score": 1386.2,
    "img": "https://images.thdstatic.com/productImages/98132532-80b5-452a-b7cf-c100b058225d/svn/ryobi-stick-vacuums-pblsv716k-64_400.jpg",
    "zone": "Tools / Work Gear",
    "where": "Front-to-middle, power tools and hand tool aisles",
@@ -1182,27 +1219,6 @@
    "url": "https://www.homedepot.com/s/1002719695"
   },
   {
-   "sku": "1008-625-777",
-   "name": "ONE+ 18V Cordless 6 Gal. Wet Dry Vacuum (Tool Only)",
-   "retail": 159.0,
-   "reports": 59,
-   "states": 21,
-   "fl": 6,
-   "lee": false,
-   "fl_cities": "Fort Lauderdale, Ocala, New Port Richey, Orlando",
-   "last": "3 weeks ago",
-   "sources": [
-    "Penny Recon"
-   ],
-   "age": 21,
-   "swfl": false,
-   "score": 1075.0,
-   "img": "",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/1008625777"
-  },
-  {
    "sku": "1003-565-875",
    "name": "Wireless TV Headphones In Black",
    "retail": 35.98,
@@ -1223,49 +1239,6 @@
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
    "url": "https://www.homedepot.com/s/1003565875"
-  },
-  {
-   "sku": "1004-871-058",
-   "name": "Alberson 5 in. Brushed Nickel 2-Light LED Sconce",
-   "retail": 99.97,
-   "reports": 23,
-   "states": 15,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral",
-    "Penny Pinchin' Mom"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 870.5,
-   "img": "https://images.thdstatic.com/productImages/09cbb8f3-73f2-41c8-af8a-3fcacfa515fe/svn/brushed-nickel-with-frosted-glass-home-decorators-collection-wall-sconces-28616-hbur-64_400.jpg",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1004871058"
-  },
-  {
-   "sku": "1004-869-199",
-   "name": "Elmbrook 60 in. x 30.25 in. Soaking Bathtub with Left-Hand Drain in White",
-   "retail": 439.0,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 days ago",
-   "sources": [
-    "Penny Recon"
-   ],
-   "age": 3,
-   "swfl": false,
-   "score": 835.0,
-   "img": "",
-   "zone": "Plumbing / Bath",
-   "where": "Back-center of store, near Kitchen and Bath showrooms",
-   "url": "https://www.homedepot.com/s/1004869199"
   },
   {
    "sku": "1001-514-599",
@@ -1289,6 +1262,27 @@
    "url": "https://www.homedepot.com/s/1001514599"
   },
   {
+   "sku": "1004-869-199",
+   "name": "Elmbrook 60 in. x 30.25 in. Soaking Bathtub with Left-Hand Drain in White",
+   "retail": 439.0,
+   "reports": 1,
+   "states": 1,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "5 days ago",
+   "sources": [
+    "Penny Recon"
+   ],
+   "age": 5,
+   "swfl": false,
+   "score": 695.8,
+   "img": "",
+   "zone": "Plumbing / Bath",
+   "where": "Back-center of store, near Kitchen and Bath showrooms",
+   "url": "https://www.homedepot.com/s/1004869199"
+  },
+  {
    "sku": "1014-119-123",
    "name": "UltraBrite Hex Lights 16Pack 16.5 in./1.45ft Integrated LED Strip Light Fixture White Dimmable 16000LM 5000K Wall Remote",
    "retail": 99.75,
@@ -1297,11 +1291,11 @@
    "fl": 4,
    "lee": false,
    "fl_cities": "Hollywood, Punta Gorda",
-   "last": "2 weeks ago",
+   "last": "3 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 14,
+   "age": 21,
    "swfl": true,
    "score": 664.9,
    "img": "",
@@ -1339,11 +1333,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "12 days ago",
+   "last": "2 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 12,
+   "age": 14,
    "swfl": false,
    "score": 597.7,
    "img": "",
@@ -1371,6 +1365,27 @@
    "zone": "Outdoor / Garden",
    "where": "Garden center or outdoor living, usually outside or at the front",
    "url": "https://www.homedepot.com/s/1009599161"
+  },
+  {
+   "sku": "1008-625-777",
+   "name": "ONE+ 18V Cordless 6 Gal. Wet Dry Vacuum (Tool Only)",
+   "retail": 159.0,
+   "reports": 59,
+   "states": 21,
+   "fl": 6,
+   "lee": false,
+   "fl_cities": "Fort Lauderdale, Ocala, New Port Richey, Orlando",
+   "last": "4 weeks ago",
+   "sources": [
+    "Penny Recon"
+   ],
+   "age": 28,
+   "swfl": false,
+   "score": 537.5,
+   "img": "",
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1008625777"
   },
   {
    "sku": "1006-423-739",
@@ -1403,11 +1418,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "13 days ago",
+   "last": "2 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 13,
+   "age": 14,
    "swfl": false,
    "score": 478.8,
    "img": "",
@@ -1446,11 +1461,11 @@
    "fl": 3,
    "lee": false,
    "fl_cities": "Ocala",
-   "last": "2 weeks ago",
+   "last": "3 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 14,
+   "age": 21,
    "swfl": false,
    "score": 462.4,
    "img": "",
@@ -1479,6 +1494,28 @@
    "zone": "Electrical",
    "where": "Middle of store, electrical aisles",
    "url": "https://www.homedepot.com/s/1004153623"
+  },
+  {
+   "sku": "564-184",
+   "name": "4-Tier Steel Wire Shelving Unit In Chrome (36 in. W X 54 in. H X 14 in. D)",
+   "retail": 74.98,
+   "reports": 6,
+   "states": 5,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Yesterday",
+   "sources": [
+    "PennyCentral",
+    "Penny Recon"
+   ],
+   "age": 1,
+   "swfl": false,
+   "score": 421.8,
+   "img": "https://images.thdstatic.com/productImages/5771b8a0-5aa3-4005-ae37-ba4908766d4a/svn/chrome-hdx-freestanding-shelving-units-31436ps-1-64_400.jpg",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/564184"
   },
   {
    "sku": "1008-718-547",
@@ -1510,11 +1547,11 @@
    "fl": 4,
    "lee": false,
    "fl_cities": "Yulee, Tampa, Palm Coast, St. Petersburg",
-   "last": "12 days ago",
+   "last": "2 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 12,
+   "age": 14,
    "swfl": false,
    "score": 359.9,
    "img": "",
@@ -1523,43 +1560,22 @@
    "url": "https://www.homedepot.com/s/1006374596"
   },
   {
-   "sku": "564-184",
-   "name": "4-Tier Steel Wire Shelving Unit In Chrome (36 in. W X 54 in. H X 14 in. D)",
-   "retail": 74.98,
-   "reports": 6,
-   "states": 5,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 337.4,
-   "img": "https://images.thdstatic.com/productImages/5771b8a0-5aa3-4005-ae37-ba4908766d4a/svn/chrome-hdx-freestanding-shelving-units-31436ps-1-64_400.jpg",
-   "zone": "Electrical",
-   "where": "Middle of store, electrical aisles",
-   "url": "https://www.homedepot.com/s/564184"
-  },
-  {
    "sku": "1008-778-891",
    "name": "Maxfit Modular 3/8 in. Drive Right Angle Attachment",
    "retail": 24.97,
-   "reports": 24,
+   "reports": 26,
    "states": 12,
    "fl": 3,
    "lee": false,
-   "fl_cities": "Port St. Lucie",
-   "last": "Yesterday",
+   "fl_cities": "Port St. Lucie, Oviedo",
+   "last": "Today",
    "sources": [
     "PennyCentral",
     "Penny Recon"
    ],
-   "age": 1,
+   "age": 0,
    "swfl": false,
-   "score": 319.1,
+   "score": 326.4,
    "img": "https://images.thdstatic.com/productImages/5b5d1ce8-b378-469b-99d5-79fb4143a223/svn/dewalt-drill-attachments-dwamra38-64_400.jpg",
    "zone": "General",
    "where": "Ask a Home Depot associate or check the app aisle number",
@@ -1574,38 +1590,17 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "4 days ago",
+   "last": "6 days ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 4,
+   "age": 6,
    "swfl": false,
    "score": 316.9,
    "img": "",
    "zone": "Plumbing / Bath",
    "where": "Back-center of store, near Kitchen and Bath showrooms",
    "url": "https://www.homedepot.com/s/1006423742"
-  },
-  {
-   "sku": "1008-142-318",
-   "name": "ONE+ 18V Bagless Cordless Mesh Filter Stick Vacuum Cleaner (Tool Only)",
-   "retail": 129.0,
-   "reports": 10,
-   "states": 7,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "3 weeks ago",
-   "sources": [
-    "Penny Recon"
-   ],
-   "age": 21,
-   "swfl": false,
-   "score": 277.5,
-   "img": "",
-   "zone": "Tools / Work Gear",
-   "where": "Front-to-middle, power tools and hand tool aisles",
-   "url": "https://www.homedepot.com/s/1008142318"
   },
   {
    "sku": "155-180",
@@ -1743,28 +1738,6 @@
    "url": "https://www.homedepot.com/s/686826"
   },
   {
-   "sku": "1004-296-682",
-   "name": "Smart Lighting White Motion Activated Outdoor Integrated LED Spotlight Battery",
-   "retail": 39.99,
-   "reports": 10,
-   "states": 9,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "6 days ago",
-   "sources": [
-    "Penny Recon",
-    "Penny Pinchin' Mom"
-   ],
-   "age": 6,
-   "swfl": false,
-   "score": 179.2,
-   "img": "",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1004296682"
-  },
-  {
    "sku": "342574",
    "name": "Natural Cedar Raised Garden Bed with 2 Sections (4 ft. L x 8 ft. W x 10.5 in. H)",
    "retail": 128.37,
@@ -1773,38 +1746,17 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Melbourne",
-   "last": "2 weeks ago",
-   "sources": [
-    "Penny Recon"
-   ],
-   "age": 14,
-   "swfl": false,
-   "score": 177.2,
-   "img": "",
-   "zone": "Outdoor / Garden",
-   "where": "Garden center or outdoor living, usually outside or at the front",
-   "url": "https://www.homedepot.com/s/342574"
-  },
-  {
-   "sku": "1011-950-697",
-   "name": "5 in. Brushed Nickel Smart Plug and Play Lighting Base - Carina",
-   "retail": 139.9,
-   "reports": 1,
-   "states": 1,
-   "fl": 1,
-   "lee": false,
-   "fl_cities": "St. Petersburg",
    "last": "3 weeks ago",
    "sources": [
     "Penny Recon"
    ],
    "age": 21,
    "swfl": false,
-   "score": 153.0,
+   "score": 177.2,
    "img": "",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1011950697"
+   "zone": "Outdoor / Garden",
+   "where": "Garden center or outdoor living, usually outside or at the front",
+   "url": "https://www.homedepot.com/s/342574"
   },
   {
    "sku": "1008-733-799",
@@ -1815,11 +1767,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 weeks ago",
+   "last": "3 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 14,
+   "age": 21,
    "swfl": false,
    "score": 151.9,
    "img": "",
@@ -1857,11 +1809,11 @@
    "fl": 4,
    "lee": false,
    "fl_cities": "Miami, Jupiter, Jacksonville, Port Richey",
-   "last": "5 weeks ago",
+   "last": "6 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 35,
+   "age": 42,
    "swfl": false,
    "score": 143.9,
    "img": "",
@@ -1870,25 +1822,25 @@
    "url": "https://www.homedepot.com/s/1015012879"
   },
   {
-   "sku": "1006-037-305",
-   "name": "Decora Smart Wi-Fi Dimmer (2nd Gen) No Hub Required, Works with Google, Alexa, HomeKit, Anywhere Companions, White",
-   "retail": 51.4,
-   "reports": 11,
+   "sku": "1008-142-318",
+   "name": "ONE+ 18V Bagless Cordless Mesh Filter Stick Vacuum Cleaner (Tool Only)",
+   "retail": 129.0,
+   "reports": 10,
    "states": 7,
-   "fl": 1,
+   "fl": 0,
    "lee": false,
-   "fl_cities": "Miami",
-   "last": "3 weeks ago",
+   "fl_cities": "",
+   "last": "4 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 21,
+   "age": 28,
    "swfl": false,
-   "score": 131.2,
+   "score": 138.7,
    "img": "",
-   "zone": "Electrical",
-   "where": "Middle of store, electrical aisles",
-   "url": "https://www.homedepot.com/s/1006037305"
+   "zone": "Tools / Work Gear",
+   "where": "Front-to-middle, power tools and hand tool aisles",
+   "url": "https://www.homedepot.com/s/1008142318"
   },
   {
    "sku": "1004-043-727",
@@ -1912,10 +1864,31 @@
    "url": "https://www.homedepot.com/s/1004043727"
   },
   {
+   "sku": "1013-994-799",
+   "name": "Video Doorbell System - Wireless - Battery Operated Smart Video Doorbell Came...",
+   "retail": 41.63,
+   "reports": 2,
+   "states": 2,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "Today",
+   "sources": [
+    "PennyCentral"
+   ],
+   "age": 0,
+   "swfl": false,
+   "score": 124.9,
+   "img": "https://images.thdstatic.com/productImages/32437009-5459-485b-8951-6280bb6a3a54/svn/white-blink-doorbell-cameras-b0dgqvd8fg-64_400.jpg",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/1013994799"
+  },
+  {
    "sku": "1007-608-689",
    "name": "PACKOUT M18 Battery Rack",
    "retail": 24.97,
-   "reports": 6,
+   "reports": 7,
    "states": 4,
    "fl": 0,
    "lee": false,
@@ -1926,11 +1899,33 @@
    ],
    "age": 0,
    "swfl": false,
-   "score": 112.4,
+   "score": 118.7,
    "img": "https://images.thdstatic.com/productImages/5e87d486-d320-446b-b841-1a0f96bdf513/svn/red-milwaukee-garage-storage-hooks-48-22-8339-64_400.jpg",
    "zone": "Storage / Organization",
    "where": "Middle of store, storage aisles",
    "url": "https://www.homedepot.com/s/1007608689"
+  },
+  {
+   "sku": "1004-296-682",
+   "name": "Smart Lighting White Motion Activated Outdoor Integrated LED Spotlight Battery",
+   "retail": 39.99,
+   "reports": 10,
+   "states": 9,
+   "fl": 0,
+   "lee": false,
+   "fl_cities": "",
+   "last": "8 days ago",
+   "sources": [
+    "Penny Recon",
+    "Penny Pinchin' Mom"
+   ],
+   "age": 8,
+   "swfl": false,
+   "score": 107.5,
+   "img": "",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1004296682"
   },
   {
    "sku": "277-533",
@@ -1977,27 +1972,6 @@
    "url": "https://www.homedepot.com/s/527997"
   },
   {
-   "sku": "1013-994-799",
-   "name": "Video Doorbell System - Wireless - Battery Operated Smart Video Doorbell Came...",
-   "retail": 41.63,
-   "reports": 1,
-   "states": 1,
-   "fl": 0,
-   "lee": false,
-   "fl_cities": "",
-   "last": "Yesterday",
-   "sources": [
-    "PennyCentral"
-   ],
-   "age": 1,
-   "swfl": false,
-   "score": 99.0,
-   "img": "https://images.thdstatic.com/productImages/32437009-5459-485b-8951-6280bb6a3a54/svn/white-blink-doorbell-cameras-b0dgqvd8fg-64_400.jpg",
-   "zone": "Electrical",
-   "where": "Middle of store, electrical aisles",
-   "url": "https://www.homedepot.com/s/1013994799"
-  },
-  {
    "sku": "1015-399-905",
    "name": "Black Cut Level 1 Nitrile Dipped Gloves-L",
    "retail": 24.88,
@@ -2006,11 +1980,11 @@
    "fl": 2,
    "lee": false,
    "fl_cities": "Tampa, Melbourne",
-   "last": "5 days ago",
+   "last": "7 days ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 5,
+   "age": 7,
    "swfl": false,
    "score": 90.8,
    "img": "",
@@ -2083,6 +2057,27 @@
    "url": "https://www.homedepot.com/s/1012438212"
   },
   {
+   "sku": "1011-950-697",
+   "name": "5 in. Brushed Nickel Smart Plug and Play Lighting Base - Carina",
+   "retail": 139.9,
+   "reports": 1,
+   "states": 1,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "St. Petersburg",
+   "last": "4 weeks ago",
+   "sources": [
+    "Penny Recon"
+   ],
+   "age": 28,
+   "swfl": false,
+   "score": 76.5,
+   "img": "",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1011950697"
+  },
+  {
    "sku": "1005-617-865",
    "name": "15 Amp White Duplex Tamper-Resistant Outlets With 6 Amp USB Dual Type-C Power...",
    "retail": 39.99,
@@ -2133,11 +2128,11 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Melbourne",
-   "last": "5 days ago",
+   "last": "7 days ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 5,
+   "age": 7,
    "swfl": false,
    "score": 74.0,
    "img": "",
@@ -2167,27 +2162,6 @@
    "url": "https://www.homedepot.com/s/1009429109"
   },
   {
-   "sku": "1011-926-601",
-   "name": "5 in. Matte Black Plug and Play Lighting Base - Carina",
-   "retail": 49.9,
-   "reports": 2,
-   "states": 2,
-   "fl": 1,
-   "lee": false,
-   "fl_cities": "St. Petersburg",
-   "last": "3 weeks ago",
-   "sources": [
-    "Penny Recon"
-   ],
-   "age": 21,
-   "swfl": false,
-   "score": 68.9,
-   "img": "",
-   "zone": "Lighting & Fans",
-   "where": "Middle of store, lighting aisles",
-   "url": "https://www.homedepot.com/s/1011926601"
-  },
-  {
    "sku": "1011-585-025",
    "name": "6 in. LED Infinitiedge Recessed Retrofit Light Trim, Adjustable CCT",
    "retail": 16.97,
@@ -2208,6 +2182,27 @@
    "zone": "Lighting & Fans",
    "where": "Middle of store, lighting aisles",
    "url": "https://www.homedepot.com/s/1011585025"
+  },
+  {
+   "sku": "1006-037-305",
+   "name": "Decora Smart Wi-Fi Dimmer (2nd Gen) No Hub Required, Works with Google, Alexa, HomeKit, Anywhere Companions, White",
+   "retail": 51.4,
+   "reports": 11,
+   "states": 7,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "Miami",
+   "last": "4 weeks ago",
+   "sources": [
+    "Penny Recon"
+   ],
+   "age": 28,
+   "swfl": false,
+   "score": 65.6,
+   "img": "",
+   "zone": "Electrical",
+   "where": "Middle of store, electrical aisles",
+   "url": "https://www.homedepot.com/s/1006037305"
   },
   {
    "sku": "1004-929-498",
@@ -2260,11 +2255,11 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Melbourne",
-   "last": "4 days ago",
+   "last": "6 days ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 4,
+   "age": 6,
    "swfl": false,
    "score": 62.9,
    "img": "",
@@ -2302,11 +2297,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "12 days ago",
+   "last": "2 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 12,
+   "age": 14,
    "swfl": false,
    "score": 60.6,
    "img": "",
@@ -2323,11 +2318,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "13 days ago",
+   "last": "2 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 13,
+   "age": 14,
    "swfl": false,
    "score": 45.2,
    "img": "",
@@ -2399,6 +2394,27 @@
    "url": "https://www.homedepot.com/s/1002580883"
   },
   {
+   "sku": "1011-926-601",
+   "name": "5 in. Matte Black Plug and Play Lighting Base - Carina",
+   "retail": 49.9,
+   "reports": 2,
+   "states": 2,
+   "fl": 1,
+   "lee": false,
+   "fl_cities": "St. Petersburg",
+   "last": "4 weeks ago",
+   "sources": [
+    "Penny Recon"
+   ],
+   "age": 28,
+   "swfl": false,
+   "score": 34.4,
+   "img": "",
+   "zone": "Lighting & Fans",
+   "where": "Middle of store, lighting aisles",
+   "url": "https://www.homedepot.com/s/1011926601"
+  },
+  {
    "sku": "1010-984-022",
    "name": "1/2 in. x 12 in. SHOCKWAVE Impact Duty Carbide Multi-Material Drill Bit",
    "retail": 20.47,
@@ -2407,11 +2423,11 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Tampa",
-   "last": "11 days ago",
+   "last": "13 days ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 11,
+   "age": 13,
    "swfl": false,
    "score": 32.8,
    "img": "",
@@ -2449,11 +2465,11 @@
    "fl": 0,
    "lee": false,
    "fl_cities": "",
-   "last": "2 weeks ago",
+   "last": "3 weeks ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 14,
+   "age": 21,
    "swfl": false,
    "score": 31.4,
    "img": "",
@@ -2660,11 +2676,11 @@
    "fl": 1,
    "lee": false,
    "fl_cities": "Leesburg",
-   "last": "5 days ago",
+   "last": "7 days ago",
    "sources": [
     "Penny Recon"
    ],
-   "age": 5,
+   "age": 7,
    "swfl": false,
    "score": 5.2,
    "img": "",
